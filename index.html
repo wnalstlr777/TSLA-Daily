@@ -6,7 +6,7 @@
 <title>TSLA Daily</title>
 <style>
 :root{--bg:#0b0d10;--panel:#12161b;--panel2:#171c22;--text:#f4f6f8;--muted:#8c98a5;--line:#242b33;--accent:#e82127;--green:#36c58b;--red:#ff6670;--yellow:#f4c95d}
-*{box-sizing:border-box} body{margin:0;background:#0b0d10;color:var(--text);font-family:Segoe UI,Arial,"Noto Sans KR",sans-serif}
+*{box-sizing:border-box}body{margin:0;background:#0b0d10;color:var(--text);font-family:Segoe UI,Arial,"Noto Sans KR",sans-serif}
 .wrap{max-width:1120px;margin:auto;padding:28px 22px 54px}
 header{display:flex;justify-content:space-between;align-items:center;gap:16px;margin-bottom:22px}.brand{display:flex;gap:12px;align-items:center}
 .logo{width:42px;height:42px;border-radius:12px;background:var(--accent);display:grid;place-items:center;font-weight:900;font-size:22px}
@@ -18,91 +18,97 @@ h1{margin:0;font-size:24px}.sub{color:var(--muted);font-size:13px;margin-top:4px
 .grid{display:grid;grid-template-columns:1fr 1fr;gap:13px}.card{padding:18px}.meta{display:flex;justify-content:space-between;color:var(--muted);font-size:12px}.source{font-weight:800;color:white}.card h3{font-size:18px;line-height:1.4;margin:10px 0}.card p{color:#aeb8c2;font-size:13px;line-height:1.6}
 .tags{display:flex;gap:7px;flex-wrap:wrap}.tag{border:1px solid var(--line);border-radius:999px;padding:5px 8px;font-size:11px}.neg{color:var(--red)}.pos{color:var(--green)}.neu{color:var(--yellow)}
 a{color:#e9eef5;text-decoration:none;font-size:12px;font-weight:800;display:inline-block;margin-top:13px}.footer{margin-top:24px;color:var(--muted);font-size:12px;line-height:1.6;border-top:1px solid var(--line);padding-top:16px}
+.notice{padding:14px;border:1px dashed var(--line);border-radius:12px;color:var(--muted);margin-top:14px}
 @media(max-width:760px){.hero,.grid{grid-template-columns:1fr}header{align-items:flex-start;flex-direction:column}.search{width:100%}}
 </style>
 </head>
 <body>
 <div class="wrap">
 <header>
-  <div class="brand"><div class="logo">T</div><div><h1>TSLA Daily</h1><div class="sub">오늘의 테슬라 기사만 빠르게 훑는 개인 뉴스 보드</div></div></div>
+  <div class="brand"><div class="logo">T</div><div><h1>TSLA Daily</h1><div class="sub">자동 갱신되는 테슬라 뉴스 보드</div></div></div>
   <input id="search" class="search" placeholder="기사 검색...">
 </header>
 
 <section class="hero">
   <div class="box">
-    <div class="kicker">오늘의 핵심 · 2026.08.25</div>
-    <h2>중국 대규모 리콜과 Solar Roof 판매 중단</h2>
-    <p>오늘은 규제·안전 이슈가 헤드라인을 주도한다. 중국에서 Tesla 약 298만 대가 리콜 대상에 포함됐고, 에너지 사업에서는 Solar Roof 판매 중단이 확인됐다.</p>
+    <div class="kicker" id="updated">업데이트 확인 중...</div>
+    <h2 id="heroTitle">최신 Tesla 뉴스를 불러오는 중</h2>
+    <p id="heroSummary">GitHub Actions가 매일 새 뉴스를 수집합니다.</p>
   </div>
   <div class="box">
     <div class="kicker">빠른 체크</div>
     <div class="stats">
-      <div class="stat"><small>Tesla 리콜</small><b>2.98M</b><small>중국</small></div>
-      <div class="stat"><small>전체 리콜</small><b>4.3M</b><small>9개 업체</small></div>
-      <div class="stat"><small>에너지</small><b>Solar Roof</b><small>판매 중단</small></div>
-      <div class="stat"><small>오늘 분위기</small><b>Mixed</b><small>규제 부담 ↑</small></div>
+      <div class="stat"><small>수집 기사</small><b id="count">-</b><small>최근 24~48시간</small></div>
+      <div class="stat"><small>긍정</small><b id="positive">-</b><small>제목 기반</small></div>
+      <div class="stat"><small>부정</small><b id="negative">-</b><small>제목 기반</small></div>
+      <div class="stat"><small>중립</small><b id="neutral">-</b><small>제목 기반</small></div>
     </div>
   </div>
 </section>
 
 <div class="filters">
   <button class="active" data-filter="all">전체</button>
-  <button data-filter="stock">주가</button>
-  <button data-filter="vehicle">차량</button>
-  <button data-filter="energy">에너지</button>
-  <button data-filter="industry">산업</button>
+  <button data-filter="positive">긍정</button>
+  <button data-filter="negative">부정</button>
+  <button data-filter="neutral">중립</button>
 </div>
 
-<main class="grid">
-  <article class="card" data-cat="vehicle stock">
-    <div class="meta"><span class="source">Reuters</span><span>8월 21일</span></div>
-    <h3>테슬라 포함 9개 업체, 중국에서 기록적인 차량 리콜</h3>
-    <p>중국에서 비상 시 문 개방과 관련한 안전 우려로 약 430만 대가 리콜 대상이 됐다. Tesla 관련 물량은 약 298만 대로 가장 크며 상당수 조치는 OTA 업데이트와 경고 표시 방식이다.</p>
-    <div class="tags"><span class="tag neg">부정</span><span class="tag">차량</span><span class="tag">규제</span></div>
-    <a target="_blank" href="https://www.reuters.com/world/tesla-fix-software-millions-china-made-imported-evs-china-2026-08-21/">기사 열기 →</a>
-  </article>
+<main class="grid" id="grid"></main>
+<div class="notice" id="notice" style="display:none">뉴스를 아직 불러오지 못했어. GitHub Actions에서 Update Tesla News를 한 번 수동 실행해줘.</div>
 
-  <article class="card" data-cat="energy">
-    <div class="meta"><span class="source">Reuters</span><span>8월 24일</span></div>
-    <h3>Tesla, 약 10년 만에 Solar Roof 판매 중단</h3>
-    <p>Tesla 웹사이트에서 프리미엄 Solar Roof 타일 판매가 중단됐고 관련 페이지는 일반 태양광 패널 제품으로 연결되고 있다.</p>
-    <div class="tags"><span class="tag neu">중립</span><span class="tag">에너지</span></div>
-    <a target="_blank" href="https://www.reuters.com/business/tesla-stops-selling-solar-roofs-decade-after-launch-2026-08-24/">기사 열기 →</a>
-  </article>
-
-  <article class="card" data-cat="vehicle industry">
-    <div class="meta"><span class="source">Reuters</span><span>8월 24일</span></div>
-    <h3>유럽 전기차 점유율, 7월 25% 돌파</h3>
-    <p>프랑스와 독일의 강한 성장에 힘입어 유럽 신차 등록 중 배터리 전기차 비중이 4대 중 1대를 넘어섰다. Tesla의 유럽 수요 환경을 볼 때 참고할 만한 업계 지표다.</p>
-    <div class="tags"><span class="tag pos">산업 긍정</span><span class="tag">유럽</span><span class="tag">EV</span></div>
-    <a target="_blank" href="https://www.reuters.com/business/autos-transportation/europe-ev-market-share-tops-25-july-france-germany-drive-growth-2026-08-23/">기사 열기 →</a>
-  </article>
-
-  <article class="card" data-cat="vehicle industry">
-    <div class="meta"><span class="source">Reuters</span><span>8월 21일</span></div>
-    <h3>중국 리콜을 촉발한 숨김식 도어핸들, 무엇이 문제인가</h3>
-    <p>전자식·숨김식 손잡이가 사고나 전원 문제 상황에서 탈출을 어렵게 만들 수 있다는 점이 규제 이슈의 핵심이다. 중국은 관련 안전 규정을 강화하고 있다.</p>
-    <div class="tags"><span class="tag neg">부정</span><span class="tag">안전</span><span class="tag">설명</span></div>
-    <a target="_blank" href="https://www.reuters.com/business/autos-transportation/what-we-know-about-door-handles-that-triggered-chinas-record-auto-recall-2026-08-21/">기사 열기 →</a>
-  </article>
-</main>
-
-<div class="footer">현재 버전은 로컬에서 바로 보는 프로토타입이라 뉴스 데이터는 정적으로 넣어뒀어. 다음 단계에서 RSS/뉴스 API 또는 별도 수집기를 연결하면 자동 갱신형으로 확장할 수 있어.</div>
+<div class="footer">기사 제목·출처·원문 링크를 Google News RSS에서 수집합니다. 감성 분류는 단순 키워드 기반이라 투자 판단용 신호가 아니라 빠른 분류용입니다.</div>
 </div>
 
 <script>
-let active="all";
-const cards=[...document.querySelectorAll(".card")], buttons=[...document.querySelectorAll("button")], search=document.getElementById("search");
-function apply(){
-  const q=search.value.toLowerCase().trim();
-  cards.forEach(c=>{
-    const okCat=active==="all" || c.dataset.cat.split(" ").includes(active);
-    const okText=!q || c.innerText.toLowerCase().includes(q);
-    c.style.display=(okCat&&okText)?"block":"none";
+let items=[], active="all";
+const grid=document.getElementById("grid"), search=document.getElementById("search");
+const buttons=[...document.querySelectorAll("button")];
+
+function esc(s){return (s||"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]))}
+function render(){
+  const q=search.value.trim().toLowerCase();
+  grid.innerHTML="";
+  const filtered=items.filter(x=>(active==="all"||x.sentiment===active)&&(!q||(x.title+" "+x.source).toLowerCase().includes(q)));
+  filtered.forEach(x=>{
+    const cls=x.sentiment==="positive"?"pos":x.sentiment==="negative"?"neg":"neu";
+    const label=x.sentiment==="positive"?"긍정":x.sentiment==="negative"?"부정":"중립";
+    grid.insertAdjacentHTML("beforeend",`
+      <article class="card">
+        <div class="meta"><span class="source">${esc(x.source)}</span><span>${esc(x.published_display)}</span></div>
+        <h3>${esc(x.title)}</h3>
+        <p>${esc(x.summary||"원문 제목과 출처를 기준으로 수집된 기사입니다.")}</p>
+        <div class="tags"><span class="tag ${cls}">${label}</span></div>
+        <a target="_blank" rel="noopener" href="${esc(x.link)}">기사 열기 →</a>
+      </article>`);
   });
 }
-buttons.forEach(b=>b.onclick=()=>{buttons.forEach(x=>x.classList.remove("active"));b.classList.add("active");active=b.dataset.filter;apply();});
-search.oninput=apply;
+buttons.forEach(b=>b.onclick=()=>{buttons.forEach(x=>x.classList.remove("active"));b.classList.add("active");active=b.dataset.filter;render();});
+search.oninput=render;
+
+fetch("news.json?ts="+Date.now())
+  .then(r=>{if(!r.ok) throw new Error("news.json 없음"); return r.json();})
+  .then(data=>{
+    items=data.items||[];
+    document.getElementById("updated").textContent="마지막 업데이트 · "+(data.updated_display||"-");
+    document.getElementById("count").textContent=items.length;
+    const counts={positive:0,negative:0,neutral:0};
+    items.forEach(x=>counts[x.sentiment]=(counts[x.sentiment]||0)+1);
+    document.getElementById("positive").textContent=counts.positive;
+    document.getElementById("negative").textContent=counts.negative;
+    document.getElementById("neutral").textContent=counts.neutral;
+    if(items.length){
+      document.getElementById("heroTitle").textContent=items[0].title;
+      document.getElementById("heroSummary").textContent=`${items[0].source}의 최신 기사. 아래 카드에서 원문을 바로 열 수 있어.`;
+    }else{
+      document.getElementById("notice").style.display="block";
+    }
+    render();
+  })
+  .catch(()=>{
+    document.getElementById("notice").style.display="block";
+    document.getElementById("heroTitle").textContent="아직 뉴스 데이터가 없어";
+    document.getElementById("heroSummary").textContent="GitHub Actions에서 Update Tesla News를 수동 실행해줘.";
+  });
 </script>
 </body>
 </html>
