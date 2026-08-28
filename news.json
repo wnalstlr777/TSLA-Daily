@@ -1,61 +1,88 @@
 {
-  "updated_at": "2026-08-28T06:04:28.939980+00:00",
-  "updated_display": "2026.08.28 06:04",
+  "updated_at": "2026-08-28T22:35:57.337734+00:00",
+  "updated_display": "2026.08.28 22:35",
   "query": "Tesla when:2d",
   "items": [
     {
-      "title": "Full Self-Driving Is the Best Thing About the New Tesla Model Y",
-      "source": "WSJ",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DNEtPbUxrWmc1d19NQU1oOFVyR0cxbUY0a0JfdHI3TDJVZTU2ZWJDaFlhS1c1d3MxTTlXYUYya3JydkRGQTZSNFdBMldkZ3gxMGVpSkJLVmF4X0kxbUJXMmxick9NRk96YU9ZZ3d0cU1sUQ?oc=5",
-      "published": "2026-08-27T17:13:44+00:00",
-      "published_display": "08.27 17:13",
+      "title": "Tesla Stock Has a Huge Catalyst Ahead. Here’s How High It Could Go",
+      "source": "24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZzgzZzlrR0wwN0pFOUlTektzTFNVekx0NUxJYlNUNkl4TGxLdnd4eGFPVlAwRmI5c0I0QzJ4Y0VieExEM1laS19mV0RJRjRrWmp5aHFLUmNwWGNZR2k5SVZKc01naWN4R3pzNkF3T0NSaXcwZUpfeVFvX21oUkFOVGlfNy1VaFZRQlNkS2hHSWZhMHlmTEhOYThIVVdkRzV5cEY5VjFObDlmWGxl?oc=5",
+      "published": "2026-08-28T16:00:00+00:00",
+      "published_display": "08.28 16:00",
       "sentiment": "neutral",
-      "summary": "WSJ에서 수집한 Tesla 관련 최신 기사입니다."
+      "summary": "24/7 Wall St.에서 수집한 Tesla 관련 최신 기사입니다."
     },
     {
-      "title": "Man Buys $100K Cybertruck. 2 Years Later, He Learns What It’s Worth: ‘I Put 25,000 Miles On It’",
-      "source": "Motor1.com",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsd2VObHRKWldUR29jU2JscXhaU25kZTJ1M0xjRFZ4Zm4zZXF6akF5ZW9qa3p5bVFLV1lpNWRDVVQ3N3duaG5md01tWDRxTnRuSllpQTVodUhtbEhoZ1E3ZlpBTlBycnRRRFNWWFh2UHctLXM?oc=5",
-      "published": "2026-08-28T00:01:57+00:00",
-      "published_display": "08.28 00:01",
+      "title": "Tesla Semi’s biggest adoptee gives an update on production timeline",
+      "source": "Teslarati",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ19WQ2toU21kU0I2aVpEXzlGaWJNc1Z5VUtQaWxfWFctSkx0QnNYWF9tZ2xYNG9GNUZFNmxGQ0MzNlcxOHkyVk8yXzI4XzJ6X2tvQU5XbEVzbTVieER6eFVXQWZFSzJKSnBTbVZ6TXZIUGlpdlcxLXl5OVNEVWt2eFUzd0xLUnc?oc=5",
+      "published": "2026-08-28T17:20:11+00:00",
+      "published_display": "08.28 17:20",
       "sentiment": "neutral",
-      "summary": "Motor1.com에서 수집한 Tesla 관련 최신 기사입니다."
+      "summary": "Teslarati에서 수집한 Tesla 관련 최신 기사입니다."
     },
     {
-      "title": "Waymo takes a shot at Tesla’s self-driving: it’s a ‘false summit’",
-      "source": "Electrek",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ydDJVMER2aVpVS2g4alFFZEpMbHFUbkRKZ3BRajdkTkI3WERpR2RvbXZtVENieFZtQmNxeW01ZHdKMGhxZjRRQml0dFlwS2pMSVkxOEtoTjhOWnpuOEZwOVE3X204N0tNNjE4cFpIY2hNOWp6ODBTMw?oc=5",
-      "published": "2026-08-27T13:49:00+00:00",
-      "published_display": "08.27 13:49",
-      "sentiment": "neutral",
-      "summary": "Electrek에서 수집한 Tesla 관련 최신 기사입니다."
+      "title": "Tesla Launches New Zen Grey Model Y Interior in Europe",
+      "source": "Not a Tesla App",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa1M5WlNsV0o0TVU5TXRrYVVOLXRQdnJyNFAzdHhHRDR2WS00Q1FSWFZNTXVJS0pPNWRZTzNqOW5GTk5UYmExaThrU3BScTdRUDFacWhEeGtxaUVWT1BlOHhvRF9hYmo5al9mMmotM1dTMGJRdE9GaXRCejBHQlJSdEtSbWI2UjlNR1NIZmZZWmxQRHZ1V3ljRQ?oc=5",
+      "published": "2026-08-28T20:24:00+00:00",
+      "published_display": "08.28 20:24",
+      "sentiment": "positive",
+      "summary": "Not a Tesla App에서 수집한 Tesla 관련 최신 기사입니다."
     },
     {
-      "title": "China Flexes its Auto-Safety Chops With Huge Recall of Tesla, Other Cars",
-      "source": "Insurance Journal",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Qb25PVmRaLXJfd2hLLUUxZW9BVXhWOEo3b2hrbGlFZnRma0dhQ3UxM2ExTUdXaTY2a0lBUDFLTVlMbjRib29oZENydEdLQ1hDMG9OMEFVajFlS3hPNUlHd1NSWWhvZm11Yk5DdWhqQWd6MFRQNkxUN2NSTDJRUQ?oc=5",
-      "published": "2026-08-28T05:07:12+00:00",
-      "published_display": "08.28 05:07",
-      "sentiment": "negative",
-      "summary": "Insurance Journal에서 수집한 Tesla 관련 최신 기사입니다."
-    },
-    {
-      "title": "Tesla Stock Sits Nearly 30% Below Its High and Still Trades at 330 Times Earnings",
+      "title": "Massive News for Tesla Stock Investors",
       "source": "The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU2RKZXcxcUhYYWZwbEM3THVId1NoemhIMWVxQVltRWJQeGJXUVZvU21kR1F2YXA0X084aHZ6VXRoLU95NFpMVGpiN1F0Z20tdng2cWhqajdmV0REMnBVZHNQQ3VLUmsyYnlJbkFZWVQya0NRZUhRMlVwNjhIYkRpM1J4WE5HV2U2SmlQSGU0Y2p2N3l0blFaS2wzSEQ0cGhyX2JRcTVOVFlTUUctcDhkY2UwTTlZbG9kWHRiYUs2SWE?oc=5",
-      "published": "2026-08-28T03:40:07+00:00",
-      "published_display": "08.28 03:40",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOVlGemYxNzEwWVd0TnRGd241OHBhd084VnR3UktabnVjZHdMbjBjOWExWGtvVnAtdExxeWhhUmZOd0ZMdU84cE9Zd2w2bHNYN2NoaWVQc1h0OG1vZ0FuVUVpSDloTVl6RGg2TWpVaGxodmxMZDd3bXNsaFRCeVJJY1YzNGo0Z0hL?oc=5",
+      "published": "2026-08-28T18:02:00+00:00",
+      "published_display": "08.28 18:02",
       "sentiment": "neutral",
       "summary": "The Motley Fool에서 수집한 Tesla 관련 최신 기사입니다."
     },
     {
-      "title": "De Anza College program to fuel Tesla's next engineering technicians",
-      "source": "NBC Bay Area",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdVRKTTVVWGY0T1lJTFRRdDZvTDlpUGh1Qmdoc01NRXduSmQ1aFJ0MjlmQU5nOGZzTi1KazQwV2pFcEZlaDh6aHhDUVdSeGRuZV9zWjhTUWVBX2VLd2xBckhBYVhNbU0zUjZaRFBhY0t4bTRMRUkyNzNiNFNrR1UxRTFZU2ZiNW4wX3d5MWVvZkgwcFd1NVZzY9IBoAFBVV95cUxNOFowUjFMXzhJeTNDMHQ4NjhjUDJ6Tkd2T3dDcS1xallCRmEwWThweUxUcDFfUnU2b0ZoUlpBUFVITEl2azhQSEJFVDdUX0d3a3hkNUFTVlpacXNxR3Fad3pNV2JWWU94M1h3WHU0S2NrLTBQeThucW8wQm9fMnFMT1lWZzRXZFlIckN0eW02SkVlRGF4aW1fdG9CbU9JQmd1?oc=5",
-      "published": "2026-08-28T01:30:34+00:00",
-      "published_display": "08.28 01:30",
+      "title": "Tested! Rivian R2 vs. Our Favorite EV SUVs: Model Y, Ioniq 5, Mach-E",
+      "source": "MotorTrend",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWVNraWhPLUc5UjBIazVlWmlWX3FUUzl2SU50Slg5emduX0hhZWhhNy1LeDVzWkxpbElXQXFqWC1YSVM3UzFuYXlaemszY2dyZDlRYjR2SzFwTUNsVzlHSnVJZlVPd2ZVZWthdm5DVlBLRm5GRll0MFd3dGd4VUx3UnI4SXc4bXlyVXMyVjM5UTYwVGVxNXlCMmZaOENhZV9ic29QeXdQX2JKeFRmRE5mTGRXMXdEUmdhSFF3dzRWQ2UzdTZ5dFh1bnFHMA?oc=5",
+      "published": "2026-08-28T14:17:40+00:00",
+      "published_display": "08.28 14:17",
       "sentiment": "neutral",
-      "summary": "NBC Bay Area에서 수집한 Tesla 관련 최신 기사입니다."
+      "summary": "MotorTrend에서 수집한 Tesla 관련 최신 기사입니다."
+    },
+    {
+      "title": "My Tesla Cybercab launch predictions",
+      "source": "Electrek",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9URzAwWW5KZllZdExDczFROWUyd0NpelJUdnJZWk55OWpCNTdHeXJFR2UzMVRyUVJDNDFScFppY21BeS0xTk9ueHJSSkc4X2E5YlhuXzNyQVNxT25ZTHNDUXVULXdNSzNSbFFUSWZCd3pyWWs?oc=5",
+      "published": "2026-08-28T17:20:00+00:00",
+      "published_display": "08.28 17:20",
+      "sentiment": "positive",
+      "summary": "Electrek에서 수집한 Tesla 관련 최신 기사입니다."
+    },
+    {
+      "title": "Tesla's Cybercab Launch Is Next Week. Here's What Tesla Still Needs To Prove",
+      "source": "InsideEVs",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBheFpNVm5DUkw4S0xVd3FnTUJtUWk2QV9uUUNoekxualJjSkFTOEcyeVpUdjhEVWJkR2NRb0R4WHROZEphZ2hHTGg2QXZXTnJWUFk4aUpwcFgwdTA3aFU3SEFvUXM0eUFnck5IU01BMVBHX0c4Y0owNmVB?oc=5",
+      "published": "2026-08-28T19:23:00+00:00",
+      "published_display": "08.28 19:23",
+      "sentiment": "positive",
+      "summary": "InsideEVs에서 수집한 Tesla 관련 최신 기사입니다."
+    },
+    {
+      "title": "Tesla (TSLA) Recalls 3 Million China EVs Over Door Handles, Driver Monitoring",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORlVnQy1NUFB5R1hfREtsMUh4blE4WG1MYzk5V0lnN1NWS0ZOeFBteEEwem1zRXRySXA1QXgxSjF2SFk4YmNFdnpxWkRFcHVUSDJ4bi11VjN3VmNIQ3M5Nk9YemhMaEg2Y1FhZ2VnQkw2N3p0YlUwTWM3UXdfcWZWWFdvREN3MzNHR0ttR043b1pNX0ZmZGdxTQ?oc=5",
+      "published": "2026-08-28T16:23:00+00:00",
+      "published_display": "08.28 16:23",
+      "sentiment": "neutral",
+      "summary": "Yahoo Finance에서 수집한 Tesla 관련 최신 기사입니다."
+    },
+    {
+      "title": "BYD’s EV Sales Plunge in China. What It Means for Tesla.",
+      "source": "Barron's",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzWHY5QzRZZTRKenNpMFIyNGRrcW1hRURNV3R2YWRJb0RnTHhzSFZ1TU0wTExyZ2FCR0RWV1k0Vk5hRkpuUFQwY0hyRzZHenhSVHc0ck1seWVMcThWM1p1OXZ0c1JOYXI0YnJWSHRPWWdXcjNP?oc=5",
+      "published": "2026-08-28T14:45:00+00:00",
+      "published_display": "08.28 14:45",
+      "sentiment": "neutral",
+      "summary": "Barron's에서 수집한 Tesla 관련 최신 기사입니다."
     },
     {
       "title": "Tesla driver killed as hydroplane crash sends Kia occupants to Macon hospital",
@@ -67,49 +94,148 @@
       "summary": "WGXA에서 수집한 Tesla 관련 최신 기사입니다."
     },
     {
-      "title": "Tesla Adds Bookmark Syncing, Larger Content, Full-Screen Video and Camera Support to Browser in 2026.26 Update",
+      "title": "500 Tesla semi trucks to be deployed by autonomous trucking company",
+      "source": "CDLLife",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORmQwcHlvZ241REc2WHFmbWl2dGZTR2dwRmd5bGF2SE9RR3BTUEhTUlBLOWtKRWlMbk1leGNfNWdnTTM3QUE0a1dnbF9CNHNwdC0yTmdfdmJYbUh1bkR4MkhZekY3MEpLdUZOdUV2LTY1Y1pSeVhIcnRxUkJwSG1SNWowSGE4S2xoNDZBX21EME5TS09DSTFtdw?oc=5",
+      "published": "2026-08-28T18:56:09+00:00",
+      "published_display": "08.28 18:56",
+      "sentiment": "neutral",
+      "summary": "CDLLife에서 수집한 Tesla 관련 최신 기사입니다."
+    },
+    {
+      "title": "Florida man who bought a Tesla Cybertruck for $100,000 is stunned at what it's worth 2 years and 25,000 miles later as he 'exposes the truth'",
+      "source": "supercarblondie.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WS2JWTVBnWVJDWlNHUHQ0M1FHZW5UWDl6V0JCcU9UZWs1OWtpZ1pYVEcwX1NIQ3NWbFl4Sk4ycDJsaENIRGlOTkRkVTFyeEhLRGtwV0xuVm5NbmhqVkIyeDMwOWNsMkhhWTRScUFLVUdxNGpvODdoQjVYaF9pcDA?oc=5",
+      "published": "2026-08-28T11:48:00+00:00",
+      "published_display": "08.28 11:48",
+      "sentiment": "neutral",
+      "summary": "supercarblondie.com에서 수집한 Tesla 관련 최신 기사입니다."
+    },
+    {
+      "title": "Tesla: Autonomous Monetization Begins, But Not Priced In Yet (NASDAQ:TSLA)",
+      "source": "Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWHlObjNWNmwzZFJHUXJ1LWFWRWZIT1p3SGxxZWJoWmFKMHctSHRzZURqODdUR1RlRTVzTkFqZ1lTY1dja2VJQk9GVFhJRG1sbFozSVdhajVEZTdKejlyQWFiN1B5R1JqcTllemEyV01XOFpZRGFaNlpQQVlJTVVlcHJkeWtRbnlRWk1CSjd3WkotRTNJOW1mM3BheHBUTExf?oc=5",
+      "published": "2026-08-28T18:25:32+00:00",
+      "published_display": "08.28 18:25",
+      "sentiment": "neutral",
+      "summary": "Seeking Alpha에서 수집한 Tesla 관련 최신 기사입니다."
+    },
+    {
+      "title": "Tesla FSD Hits European Car Shares: Rent Supervised Autonomy Without Tesla Ownership",
+      "source": "Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNi1icjhBNFVXMksyUTBNN0MzbjVHWXNfQi0tcU5Eb3pSOFNxcHlhc25XOWdIeTJTdG9UVmpPM2NLSklhRkVRWDlGeXVOWVVuT08zTXBtaWFHQlVLV0tKZG1iaGx6OVVSZGg4V1gyUkM0RDM3U3RkUmE3VFdpaVJ5ODRnUXRvMXJzMWQ1ZWowLThyTjR3SWNHc2VtLW5qeWJZeXpQLUhhUFlKUExKVFpkb3d3dzFVWXlBUGpWRkowLThnUUgzWmZmWjQyQnVNSnhDNkphNA?oc=5",
+      "published": "2026-08-28T20:33:33+00:00",
+      "published_display": "08.28 20:33",
+      "sentiment": "neutral",
+      "summary": "Tech Times에서 수집한 Tesla 관련 최신 기사입니다."
+    },
+    {
+      "title": "500 Tesla Semi trucks are rolling out across the U.S., including Texas - Austin American-Statesman",
+      "source": "Austin American-Statesman",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdW5venprZlVqT3NoUGh5VVJQZUZuVFU5anZCV1Q4bFE2RlNuRDBKTXFhdVR5ZlAwUzNDc3htVFpmc2ZhUU1zeVpkRzViZFZxbnpiSjdWUGVpQnIwajR0ZlZibU04OTVSaXg3c0o1eFpOcXVRODdHTUs3cmFzMkcyWDJseVgzWkRYUC0ta3I5bTd3M1hBYmc?oc=5",
+      "published": "2026-08-28T09:18:28+00:00",
+      "published_display": "08.28 09:18",
+      "sentiment": "neutral",
+      "summary": "Austin American-Statesman에서 수집한 Tesla 관련 최신 기사입니다."
+    },
+    {
+      "title": "Tesla Increases Wheel and Tire Protection Plan Pricing",
       "source": "Not a Tesla App",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTE1kWkxSNzhhSngtNXFDTDdNN1ZtQmxORUxIUTV4ZFVzc1RjcGpfZndGVG5Ickk4d1pCV3BIc0hDVnBMR2l5X3llV1NvcktyaGdObEI0a0RFV1ZVOHJkUUNtU09jbmUtVDFRcEw1Sms0MFllMzJmZGFxcW9oQWRtNFZ0VUJpeGxmUEM2NGswa1laNU1pVXZCcHdsUXJ4M0JCRmwyUFhXV3pYVnJ3LTZPa0liMUV2OTZSSkwyY3d6cnNnRzB5bklUMk9iOXZMV2hlX1ZLUE1WSEU4aEc1SEFn?oc=5",
-      "published": "2026-08-27T16:00:00+00:00",
-      "published_display": "08.27 16:00",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSEpXLVFEQnJIYlJTX3hjeE5BcDY0blpib3ZsQUtrX1FiOWQ3cU94X1V2SjRrTXNzaE5BSF8tdno5RXA4NmxBb2pCcVY4dkVxRmFnZzNuWUF3UUZqbWpMbEUyWWpkb21TZEFwV3IwT2VCSDVWdVh3emlkZ2JIZkp1djhuU3U2OWtwV3gzRjdnc09xOTllT3ctTA?oc=5",
+      "published": "2026-08-28T18:44:00+00:00",
+      "published_display": "08.28 18:44",
       "sentiment": "neutral",
       "summary": "Not a Tesla App에서 수집한 Tesla 관련 최신 기사입니다."
     },
     {
-      "title": "What Tesla “Full Self Driving” V14 Still Can’t Do",
-      "source": "CleanTechnica",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb3FnZHAtQllsY0t0VmQ0VFFsR09peVg0QXFCMzdvTXQ4X0tTMk16WkFkb1AyV0VHUXNSeGVkVzdVeC1abDY5dTYzZlNXcjZ6NzZUVkFvb2FZUU16dFFkX0Zpa01IWkVwd1NiaGZkUHI2akFncGhkRTNRWnJoWU5GREJrN1NnMTJsQVE5WQ?oc=5",
-      "published": "2026-08-26T22:49:08+00:00",
-      "published_display": "08.26 22:49",
+      "title": "Einride (ENRD) Just Bet Big on Tesla (TSLA)",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSzBxU21la3YwQktFeUNjVVBzdWNtM2FoT28yV3FLOFl4RUZtTzhSTVFNZXJhR29kWnNqTEJvc0RQUThrb1BDUFhlYnk0bmplZFdjSW5kZ21wYWtHQUVXYWFKb29NZ3BsSkZaWWgtNy15cFRTYTY1OXE5NVZta2R6bzBMaF8za2FSY1FkTEg2eTZDcTIt?oc=5",
+      "published": "2026-08-28T18:17:24+00:00",
+      "published_display": "08.28 18:17",
       "sentiment": "neutral",
-      "summary": "CleanTechnica에서 수집한 Tesla 관련 최신 기사입니다."
+      "summary": "Yahoo Finance에서 수집한 Tesla 관련 최신 기사입니다."
     },
     {
-      "title": "Tesla Battery Damaged After Vehicle Strikes Debris In Charlotte Hall; Hazmat Crews Respond",
-      "source": "The BayNet",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNenZ1TXA1YzV1ZUgwNmVoT1JMdkROX000RHF0QWtCWWtwM1JyYzNyWlppeXdDV1htZGR2ZFNRMUtMME1wcklLTGpQcFRvNnZLODVFZlBuWkdzQlFfdjRibGg2MmQwcFpUOHoxWGtiVmNhUERNNkRtVzF4bFMtRUtLU3o1ek5OZmNmNTd2NGJzaldoMG1pRDcza0dYbm43MEJtak00Uk1aWml0S1VNNmJTRy1B?oc=5",
-      "published": "2026-08-27T23:37:10+00:00",
-      "published_display": "08.27 23:37",
-      "sentiment": "neutral",
-      "summary": "The BayNet에서 수집한 Tesla 관련 최신 기사입니다."
+      "title": "Rivian Falls 6% as CFO Departs for GE Vernova; Lucid Slips, Tesla Holds Steady",
+      "source": "24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNlFYX2EyMmJPUlVxUXphbjNKSTFodHVybXVIUmhTYk43MXc4NUlJRFh1MjNJVmRVODlBRzJSQVFOb0VfNEdZelJEN3pVWWhPMVhNakpZU0Y2VG9pQk1PQ1BWRGtXSldjcXYydzVqa0MzbS1QZTJGRFJFU0ZOOWYzbThleUFIY1VwcXQwVFdRVTVBakNFZmk4SnRQSDU3MVVTeHZHZThyOGdFU1EtckRicmJyWTZwQkF3dnF3?oc=5",
+      "published": "2026-08-28T15:32:00+00:00",
+      "published_display": "08.28 15:32",
+      "sentiment": "negative",
+      "summary": "24/7 Wall St.에서 수집한 Tesla 관련 최신 기사입니다."
     },
     {
-      "title": "Fells Point driver tried to run over officer twice over $30 citation - WBAL-TV",
-      "source": "WBAL-TV",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOHJZS1lWaWthbDVUNzhDZkdwWmZURHV1WkFRZlhIRkM0bkFEdU92OWFRckVxWDVoUkpmNUJWSzQ1dkhybmV3Zkh4ZFd1Z0luaF9fNjk4QVZMYnZ6RW82c2JIZnE3aVgxX0lpd0JKZXA1S2E1Mnc5ejVhUUlOdkhGUkZhanNjdTVxdFFuLVRfZTlZNDdKeTdBVmQwbXJMOU9r?oc=5",
-      "published": "2026-08-27T21:15:00+00:00",
-      "published_display": "08.27 21:15",
+      "title": "Tesla and Uber Won Robotaxi Permits—Why Citizens Kept Both Ratings Unchanged",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVnk3clBSRUF5R1RldG5GckRSWEhBSzVZNzV6Tkh3U1A0akJLMGRUUVlWdEMtVVhYT1hhbEhDd1o2T3YwMVlNLWs1dFI3eF9GazRod2NTandSTWZlbUdoYl9PNEJjUFNLekxYUXd6ZGY5eUVGNEFhelFFSU1iWVBmUVpWZENZaEJkbW1jOE10UUwyVHE0SXJwX05fM18?oc=5",
+      "published": "2026-08-28T11:32:20+00:00",
+      "published_display": "08.28 11:32",
       "sentiment": "neutral",
-      "summary": "WBAL-TV에서 수집한 Tesla 관련 최신 기사입니다."
+      "summary": "Yahoo Finance에서 수집한 Tesla 관련 최신 기사입니다."
     },
     {
-      "title": "Tesla Cybercab Launch Event",
-      "source": "Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZElIbUdvYThGcHZZdUdVdkZVSUpjTzR6VWEyNDFjNExVelhhOGM2SXo4MzFWVFExZkM2UWhBUXptUUVLUUFXVTYzTEk1cGhHZTdRbmhGYlhMOWRsbWlxcmJ5ei1yUC1FU3NDdlVKSXV3QzRBLXAySFctOXhsLXFkakVoZHU2Y2dy?oc=5",
-      "published": "2026-08-28T02:12:06+00:00",
-      "published_display": "08.28 02:12",
+      "title": "Tesla (TSLA) Prepares August Cybercab Rollout Starting With Employee Rides",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV1doZmVicnk2akNDZXB5MjFDZ3NxSEYwMVRoOEdzZERQVUZEVkdkSDNEaVpCdXhJVUczclJ4Z2REMVc2amN2aWM4bE84NHlGMk1oOHNYdWpOR1ctaTFZVDF2MDJZY3lEVVJtbE03ODhHOXN6cFVlN2F5OUd6N0ZJYzlCYlJrOTJCMFNFME9ZcjJoV2gxYm1mUzQ5X3Q?oc=5",
+      "published": "2026-08-28T14:37:17+00:00",
+      "published_display": "08.28 14:37",
+      "sentiment": "neutral",
+      "summary": "Yahoo Finance에서 수집한 Tesla 관련 최신 기사입니다."
+    },
+    {
+      "title": "Tesla Stock: 3 Reasons It Hasn’t Kept Up With the S&P 500 Over the Past 5 Years",
+      "source": "Barron's",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0ZGxVVUxxTGlmRFVDWmZwTlJZXzBNaTk1YUozYmlIcG8wV0wydENUelNMZjJ2N05RRTQ5Z1R5YUZGRy1NX1J1Z0hKZVpzNjNqWFpyUEZpSjBRazQ5WllhdUJ0c1NfWFl1eWV2ektHS19KZnQtN2ZsbFY3Xy1EUGM?oc=5",
+      "published": "2026-08-28T13:51:00+00:00",
+      "published_display": "08.28 13:51",
+      "sentiment": "neutral",
+      "summary": "Barron's에서 수집한 Tesla 관련 최신 기사입니다."
+    },
+    {
+      "title": "Tesla’s U.S. Sales Tanked In Q1. It Still Gained Market Share",
+      "source": "InsideEVs",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qaUZ1ZVpCRTAxRkZCZ3BiNG1pRFN3UFAwOGhPZEh1N1M3d1R2U21FRlpfemlHazFsMzJUQUlIODMwblhWT3h6RDRNbFlabkc5S25iTGxReGhxRXdmVjlBNUE3b1QxenJwZFpmUg?oc=5",
+      "published": "2026-08-28T04:39:04+00:00",
+      "published_display": "08.28 04:39",
+      "sentiment": "neutral",
+      "summary": "InsideEVs에서 수집한 Tesla 관련 최신 기사입니다."
+    },
+    {
+      "title": "Tesla Theater might be getting plenty more streaming platforms",
+      "source": "Teslarati",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TZW5lZlFoUUlQUWRVUWdkNjE3QUVjUzd4d2x0cS1tVTc4WVQ3N01sMzhVR19TWDFoODRqUmxDRzEyTlRzUkstYkRzVk4zT2ZlZjc3RmlyYUxLbzFSLU5tLVEwcmN4UmRPWWp2bE5QU1gzcVowT1NvYTNvY1B1QQ?oc=5",
+      "published": "2026-08-28T17:18:04+00:00",
+      "published_display": "08.28 17:18",
+      "sentiment": "neutral",
+      "summary": "Teslarati에서 수집한 Tesla 관련 최신 기사입니다."
+    },
+    {
+      "title": "Is Tesla Stock Underperforming the S&P 500?",
+      "source": "Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONGpBNHo0eWlsZ3BmODREaW9JZEw0akVwTVhjZjZRZ2NES0xRRjBaN29RaWlmTXJtR1pTa04tc1BrRnhxUDFLdmpnWWNIeG5FVC1IZ1RRazgtbDRwXzFEeVlyRWlOTDU5eUNqWGNlQm5JbEVxQ2p1Z0dTNXRTX0twbXh1WnpkLUtIZlhoUExQWQ?oc=5",
+      "published": "2026-08-28T14:09:41+00:00",
+      "published_display": "08.28 14:09",
+      "sentiment": "neutral",
+      "summary": "Barchart.com에서 수집한 Tesla 관련 최신 기사입니다."
+    },
+    {
+      "title": "Tesla Extends Seven China Incentives and Adds One as Q3 Push Begins - eletric-vehicles.com",
+      "source": "eletric-vehicles.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd2dNT05EUUx6emlsenNLaE1ad2xxZWdEUG1HM1gtWXNOQ0NNWHZJSmxtTXdRNVBmSVNGS0Nlc0R0XzhuZ016R0hEZmJ6SXNna2FFMGJDcWZubE9jZFNLLUw0MXVGeEp6NjlOZEt1SnBGQzQ3dTFzVWxwTVRqdHludHROaC0weUtEWDlLTkJaMHEwcC0zUkY4RjNLZS16ZnBkODRyU3BR?oc=5",
+      "published": "2026-08-28T13:45:17+00:00",
+      "published_display": "08.28 13:45",
+      "sentiment": "neutral",
+      "summary": "eletric-vehicles.com에서 수집한 Tesla 관련 최신 기사입니다."
+    },
+    {
+      "title": "Tesla, Microsoft and Oracle Stocks Eye Gains Ahead of Fed Speech",
+      "source": "FXEmpire",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS196OTREeHZ3eU5RUWlYQVFITl9kX3M0S2VpajdJQ0prcTFDSHZjN3VfenVSbmVYWDg2V1NQVWxxOFRnbGctUG53dkJIcFltV2Jmd0pvdjhSbUlyMGp5cTQ3TDVWZ29qT0pNajhnSFI4MDljOUdhdXdsXzdxUFZEMEp4NzVMWW1aeWgzY1pFZE1RNzFYLW5UTE14WFMyeVFWcHlIWFVCN1RDZnZMUVpEWjY1c20?oc=5",
+      "published": "2026-08-28T13:40:00+00:00",
+      "published_display": "08.28 13:40",
       "sentiment": "positive",
-      "summary": "Moomoo에서 수집한 Tesla 관련 최신 기사입니다."
+      "summary": "FXEmpire에서 수집한 Tesla 관련 최신 기사입니다."
     },
     {
       "title": "Dutch company MyWheels adds Tesla full self-driving software to shared fleet",
@@ -121,157 +247,31 @@
       "summary": "NL Times에서 수집한 Tesla 관련 최신 기사입니다."
     },
     {
-      "title": "Woman indicted after allegedly striking BPD officer's bike with Tesla twice",
-      "source": "WMAR 2 News Baltimore",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOU05ODJuMnVDb1FNLU1vejhEdDRZb1JqRDc4YjBJLWZvdW9heWdfUGlWeGVWSmh5OXdLR1RUVVRBYVNFRnp4d1BGbHpNOFA3VmJBemZ5cE5FdjJ4RXVmOENDRzV4dkxjV0xOMWo1R2ctRWJINnhuTWhXMDVZc1VRWW5xM3RZVVdibUluMENmYkg2dXpERnNVaDBJVUZseVcxendQN0tqWEx0UHgwVXVaa09rQmgxenBHM3hsVXAyQmFzWExmWFE?oc=5",
-      "published": "2026-08-27T18:30:52+00:00",
-      "published_display": "08.27 18:30",
+      "title": "What Tesla “Full Self Driving” V14 Still Can’t Do",
+      "source": "CleanTechnica",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb3FnZHAtQllsY0t0VmQ0VFFsR09peVg0QXFCMzdvTXQ4X0tTMk16WkFkb1AyV0VHUXNSeGVkVzdVeC1abDY5dTYzZlNXcjZ6NzZUVkFvb2FZUU16dFFkX0Zpa01IWkVwd1NiaGZkUHI2akFncGhkRTNRWnJoWU5GREJrN1NnMTJsQVE5WQ?oc=5",
+      "published": "2026-08-26T22:49:08+00:00",
+      "published_display": "08.26 22:49",
       "sentiment": "neutral",
-      "summary": "WMAR 2 News Baltimore에서 수집한 Tesla 관련 최신 기사입니다."
+      "summary": "CleanTechnica에서 수집한 Tesla 관련 최신 기사입니다."
     },
     {
-      "title": "Tesla to build three new semiconductor facilities at Giga Texas campus",
-      "source": "MySA",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYTVGSHN0TzJVZkZ5eFFvcFM3OUNEaXhqY1A0VFg0cXB5ZERTVk1wZkZ1YkN2LWdvTDA3RXhsa2w5XzhhMldxMVh6YjVaOTZ0YTloRlR2d2VVZ3AzdEhxTF90UGxuYnFHc0JBN2RDMXcxRlRZOEZwMkhhbE5MZlByMmZuV2gwNmFCSDhRSkl4QQ?oc=5",
-      "published": "2026-08-27T17:38:12+00:00",
-      "published_display": "08.27 17:38",
+      "title": "This Tesla Supercharger Extension Cable Seemed Perfect—Then The Testing Really Started",
+      "source": "InsideEVs",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbzlqY3J2SHBvVjlNbDN2LUFQVS11THVlWkgxNmt6RFVLc2RiM2xIMHJiYkZpTDN6OGJpZTJRTjVHWVgzNkZWMlpPX3Y0MWNFYkppMjl2clNfSzA5Y0VQaDhrVGwtbHZoblUzWHNCTEV3N29XMDBQb19ib0lYWnhsNkZrcHlWU1F2cFBvaEV3?oc=5",
+      "published": "2026-08-28T11:52:36+00:00",
+      "published_display": "08.28 11:52",
       "sentiment": "neutral",
-      "summary": "MySA에서 수집한 Tesla 관련 최신 기사입니다."
+      "summary": "InsideEVs에서 수집한 Tesla 관련 최신 기사입니다."
     },
     {
-      "title": "Tesla Just Got Cleared for 5,000 Robotaxis in Nevada. It Has About 20 on the Road",
-      "source": "TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTDVlWlNQTFdKZUZtMzUyajMxU0FCbDRUODE4a21PRU9qUjRLMU9rQkxBcUNzRUMyY2VEeTJoMkVmcG5rOGRuOV9zQXQ0c094MjA5dFFVUVRxN0I3MEQ0UWlaVV9nblpLSFRVRE5mYVRrZ2FBNk9mSE5QTXJBc1hXVVhydGxZZkVDWi1RaGxYdy15LVA5OEVtVThoUVRyajMtcnVaTjA0RDE?oc=5",
-      "published": "2026-08-27T23:43:35+00:00",
-      "published_display": "08.27 23:43",
+      "title": "The 2026 Tesla Cybertruck Is the Safest Pickup You Can Buy, But Its Cost Has Risen",
+      "source": "Cars.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORGo5Q0I1dml0eFNPaEJmcU44MEQ0eGkzWFN0UHU2a1p1ejdTV3ZQeVA4d1I1RGI4cFRKTGNFSFkzYVVmOUtHcnRHOXo5Sml4SVdwQllSQzNzY0RGYjY5OHlFZlRmZlB6WWxjNktfTHV2SGM5WXdSM2RVZVR4VHZRMFlicmhXMm1QZFJ3R1RNQ2VfVl9RU0VELWJxc1dZTERMc1UwbE9PaXQ5bEM2UUFtUFZKMTJ4aExzUGFF?oc=5",
+      "published": "2026-08-28T12:12:34+00:00",
+      "published_display": "08.28 12:12",
       "sentiment": "neutral",
-      "summary": "TIKR.com에서 수집한 Tesla 관련 최신 기사입니다."
-    },
-    {
-      "title": "What Is Tesla (TSLA) Really Building With Optimus Robots And Its New Starbase?",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOXJjMlZfRTBGcGUxcUdqeTlUWEhrVmN5Nlc3QVRTazEwUElQcEVycElxeERRb2h1MXZ1UTkwZnk4SkxRaEFkN0ZPbTNTOUJRVU8tcmVmSzFBZ2tZaF9saDZLbE1GYk1qSnRqYmUzSkxzM3l6WW12WFhlblc0RDl2LWRNSlFaTXhoVWpTcnFCTkc5dlBwb2E0YVF5QQ?oc=5",
-      "published": "2026-08-27T21:07:59+00:00",
-      "published_display": "08.27 21:07",
-      "sentiment": "neutral",
-      "summary": "Yahoo Finance에서 수집한 Tesla 관련 최신 기사입니다."
-    },
-    {
-      "title": "Tesla driver dies after crash with tractor turns into car fire near Elk Grove",
-      "source": "FOX40",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPejR0bHpWLW1Ma0U2Wjgzb21xVEU0LVZfT2N4QThmREI2c01WWU13SlhHbmF4RGdpUUtnQXhPa1d4YWNORjRmVjZNMVQweGkyWWFJTlVKTzFRLXhMYlAxdkZ6WmdmU29fcHdfMVZ2ZGlNSEkydjIxaHJUbHZXOG41OHhQcDNVZG5sNEtBOUVMeEI3LWZwVG9ZQ3pSVFhLVEoycENFSTlUeTRSNjIyb2YwaQ?oc=5",
-      "published": "2026-08-27T17:24:06+00:00",
-      "published_display": "08.27 17:24",
-      "sentiment": "negative",
-      "summary": "FOX40에서 수집한 Tesla 관련 최신 기사입니다."
-    },
-    {
-      "title": "China Recalls Millions, Europe Says Tesla Door Handles Are Fine",
-      "source": "Motor1.com",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrVHFqT1MyYkpXeGl6ZXRLMEZQcFB5M0ZhZWRNZVI1Wm5RbGVLOUlyVnpWMGo2V2dqQkZJNF9WdUsyUzZKcFZRSlNWbGttLWlCaTBHdTZEc1dEd0todXJYZU9yUFB2Y0duc1ctYXNlbXFicEx0?oc=5",
-      "published": "2026-08-28T05:48:00+00:00",
-      "published_display": "08.28 05:48",
-      "sentiment": "neutral",
-      "summary": "Motor1.com에서 수집한 Tesla 관련 최신 기사입니다."
-    },
-    {
-      "title": "Optimus Just Entered Production at Fremont. Here's What Changes for Tesla Investors.",
-      "source": "The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTFpsWkJLaFZUZnYzTnh6dGh1dUJiWkFjRktEZGpYSGJ1cEF6TE53NC0zeURvMkFhLVBRYk5GQkZ3dFlGY3FhY3llb2Z3VVNMc3R4OWIyNGtsMVNrMUxKMUVIRGdtOU1pV0lma19IcXlDZ2tLX3ZOc2x1Y3FNUEI0Y0w4VXMwV2tYX0wxRWZNWFpocm9EM184Ug?oc=5",
-      "published": "2026-08-28T00:05:00+00:00",
-      "published_display": "08.28 00:05",
-      "sentiment": "neutral",
-      "summary": "The Motley Fool에서 수집한 Tesla 관련 최신 기사입니다."
-    },
-    {
-      "title": "A SpaceX-Tesla Merger Is A Terrible Idea",
-      "source": "planetearthandbeyond.co",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOSnA5TlpJelJma3QyLWRCanY0bnBaQ0FNcG43ZWNQX1l4c2RNQzYxc0t5NWZZaUpoMkI3RHh2dHRXTDFjdzlfQ1dieHNNX285Zy1kVmF2c2RTYTVWXzZLQnR0eHNDUWZUNlhTakxxSTN2R2Y1c3FkbGY4akRHZw?oc=5",
-      "published": "2026-08-27T21:01:18+00:00",
-      "published_display": "08.27 21:01",
-      "sentiment": "neutral",
-      "summary": "planetearthandbeyond.co에서 수집한 Tesla 관련 최신 기사입니다."
-    },
-    {
-      "title": "Ford Motor vs. Tesla: Analyzing Revenue Trends Between These Automotive Giants",
-      "source": "The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMjNJdWhIWDFIaWhhNllvOXRXS1I2WjdUakdPVEh3UkptQS1kckdsTXBfSi16Sm40bVVsbnZmUm1NdHN0czM4ZFRyN1FqS3owS0wtMUlrbVJEOEpaQ2xnNHktM3pHd1RYd3FMRFZFdlNUa052clZ0ZXc5VHlrbWRncnh0ZnZwYm5UWW1ZNFBkOGx1aEFYR0pHVkcwZmhrUkxZOEdTYTJhZ2JPbVQxemN1THUwc1NlRzRwbjNtWkIxMnEwWXc?oc=5",
-      "published": "2026-08-27T19:53:00+00:00",
-      "published_display": "08.27 19:53",
-      "sentiment": "neutral",
-      "summary": "The Motley Fool에서 수집한 Tesla 관련 최신 기사입니다."
-    },
-    {
-      "title": "Elon Musk Teases Tesla Vehicle 'Way Cooler Than a Minivan'—Is the Robovan Finally Coming?",
-      "source": "Yahoo Autos",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU2tpc2UzcWp2Vk44WmRxWU5XbnRvaXZtNk02RUkyUXdQU2Rja2VkVThfUnFRcWpVeEptVjc1RVhfX0tTSVNieXZBN2ZoSmRlZ2VCVkNHLVNBZlJyLU1TRmJ4N0J3d2pOQlFYZG02NndVUmlvVThuMmIzV01PenJSc2NlTWYzQy05bW01b0N0RzN0bEdMSnR1MDRaYjZLZw?oc=5",
-      "published": "2026-08-28T03:31:00+00:00",
-      "published_display": "08.28 03:31",
-      "sentiment": "neutral",
-      "summary": "Yahoo Autos에서 수집한 Tesla 관련 최신 기사입니다."
-    },
-    {
-      "title": "Tesla Announces Semi Event for Sept. 24. Here's What Investors Need to Know.",
-      "source": "The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORUpxN2JEWXdkWkhLQ3oxbkU3WUZIM0t6LVZ0blRLZmZ0cWlEaWx6d1hsd2J0OWYyeGNxQkZVV0N6ZENFQm9pcWlYLVFHZ3FpRUNjVTM2aUV4cnpJc3JUSDBrNmFlQV9sNkdJa3hueXl5Q3ZVRnBQX0ZrdXQtNlc0YTRxOGtRc1VzTkRGRTM4QWt4dnkyYW9RUEY2ZEd5VldqUk43SjJKS3BBdlNvMUR3YnQ5Z25TZUtvYVFVSU5R?oc=5",
-      "published": "2026-08-27T19:07:00+00:00",
-      "published_display": "08.27 19:07",
-      "sentiment": "neutral",
-      "summary": "The Motley Fool에서 수집한 Tesla 관련 최신 기사입니다."
-    },
-    {
-      "title": "Tesla Cybercab uses a unique strategy for picking up the right rider",
-      "source": "Teslarati",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSm1GOU13M1FkY2JDY1FHdzJPbHNUZzNvRkJvazlFRkd2VlZnNVB4eEVMcGhnNllEOFF5N2xOOHBVTnZFbEhtVGN5UWRFRGc5dGg0QmlicnphbHl5NFBrcFlwcTVuZDEwYm5URVQ5VG1FWjJJN1lEVklhY0p0a1lOTFRHWl92ZUVhZGVLTg?oc=5",
-      "published": "2026-08-27T23:46:34+00:00",
-      "published_display": "08.27 23:46",
-      "sentiment": "neutral",
-      "summary": "Teslarati에서 수집한 Tesla 관련 최신 기사입니다."
-    },
-    {
-      "title": "Tesla Full Self-Driving likes trains a bit too much",
-      "source": "Electrek",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ENTBrME1CdjdpZkZRM0ZiTC0tMXNHMlk4UkMxR1VmM0dQaVFhU1RNVFFEMFdOeGxMdFluWk1rVnhHR2psc05HZDNnVE1DZlhIVkNNN0tsNDBXdncwRGZFMVJEalJkWVhzRGJGdG54ZEI?oc=5",
-      "published": "2026-08-27T18:36:00+00:00",
-      "published_display": "08.27 18:36",
-      "sentiment": "neutral",
-      "summary": "Electrek에서 수집한 Tesla 관련 최신 기사입니다."
-    },
-    {
-      "title": "Tesla Adds 79 Model Y Robotaxis in a Day as Texas Fleet Reaches 270 - eletric-vehicles.com",
-      "source": "eletric-vehicles.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUXhLMTZKVjlhNXd4akp6N3RqMVlHMGZGenVhcUNxVnJvWjItZzJ1NkROckZFT3BxdENjT1BKNVI1SmlqbGhSSHlhbnhzLXc5dXNpQlZoTUJRT1NtNU4yTkNWRzEwVnhMcG93NjBfV3ZHdFhoYmNmeVBjeVNzeEs4cUcyVkNHTHNJd1doU2J3NWlOMXNsZzdheExQd3IzYWhqaEU3MV9R?oc=5",
-      "published": "2026-08-27T16:04:55+00:00",
-      "published_display": "08.27 16:04",
-      "sentiment": "neutral",
-      "summary": "eletric-vehicles.com에서 수집한 Tesla 관련 최신 기사입니다."
-    },
-    {
-      "title": "Toyota launches its updated bZ5 electric SUV at half the price of a Tesla Model Y",
-      "source": "Electrek",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdEp0RTVvdV9rSHVoZ3BLOE5yZGxMclVoV0FNdFh4WDBBMTBsYm0tbHVBekVyTjJ1TGxQRnI3R1R1ekg3V0FwOGIyTjdwc1RpV01zZGxzdFM1QzVWMk5yNGg2WGpvQU5pLTk0RWNaVDlZR2RPRmdaUFlIX2VyRUNUV0ZaM1RaODZXY1FsYg?oc=5",
-      "published": "2026-08-27T18:46:00+00:00",
-      "published_display": "08.27 18:46",
-      "sentiment": "positive",
-      "summary": "Electrek에서 수집한 Tesla 관련 최신 기사입니다."
-    },
-    {
-      "title": "BYD overtakes Tesla in global EV market",
-      "source": "AzerNews",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jbEZldms5djBMTDZLQ1U1MzBBZnpOaHlNTFFkckx2bG9fdnk2Z0YtQkJDYWhhOTVnR3JTX214SHY4d0g4MGFvejJtdVItalM5MDNIOQ?oc=5",
-      "published": "2026-08-28T04:00:00+00:00",
-      "published_display": "08.28 04:00",
-      "sentiment": "neutral",
-      "summary": "AzerNews에서 수집한 Tesla 관련 최신 기사입니다."
-    },
-    {
-      "title": "Tesla Base Model 3 Delivery Pushed To 2027",
-      "source": "Forbes",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ0kxWktPcjRGQWVzbVZjbzFvQURNbFlEV0xoMVlWUHlieTFjZERzekZrUkdpeU02ZXRGU2ZFRzhpVVhCVDBQd1NIMVM0MjRFckg2TTlILWdGOU1SSDh2dDRVQlVxSUJOZnMzRFNTbWlndVZYQjVrZkIzMDU2QzJTZjRMNWFCOWpnQnhxY2luejdSei1vRUFn?oc=5",
-      "published": "2026-08-26T15:12:42+00:00",
-      "published_display": "08.26 15:12",
-      "sentiment": "neutral",
-      "summary": "Forbes에서 수집한 Tesla 관련 최신 기사입니다."
+      "summary": "Cars.com에서 수집한 Tesla 관련 최신 기사입니다."
     }
   ]
 }
