@@ -1,277 +1,277 @@
 {
-  "updated_at": "2026-09-03T22:37:01.432308+00:00",
-  "updated_display": "2026.09.03 22:37",
+  "updated_at": "2026-09-04T22:37:54.488412+00:00",
+  "updated_display": "2026.09.04 22:37",
   "query": "Tesla when:2d",
   "items": [
     {
-      "title": "Tesla crashes through Chester home's living room, injuring resident",
-      "source": "ABC7 New York",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWVhwSVZseGR0dlVqZF9zdExTX3U5WGo5SVVVazhRelZoWGZtTHVFc2tJeEJNOF8teEszWHB2clVPNnF2cmJMT2N0N29ZSml4S0g3N0M0ZzZmSkdvZzA0T3NaQm1sdTJiaEk4em1MQUZfNVV3QUg3UkhIeHBCZ2RyRDlaQmlZUmcwdHFhMm4wVQ?oc=5",
-      "published": "2026-09-03T19:33:55+00:00",
-      "published_display": "09.03 19:33",
-      "sentiment": "neutral",
-      "summary": "ABC7 New York에서 수집한 Tesla 관련 최신 기사입니다."
+      "title": "Tesla's stock drops 6% as Cybercab update 'underwhelms' Wall Street",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR0t5RzhPYWdIZ3hPSzBuN2dVTGdnRFhrUzRBd2RLM1NHUXNvUFlTWjYzdXE2UzlGc3lETkM5Tm9FMDFhOGJNSnVudnZqYXNmdG9NaWl3T1NwcjhkVWcxZ3pROGxmbXZSMFBGODVURzJNV0h6Nm1hRFdhNENmUTlZelFQZnRSTm9iZDhGc190WlBYdmRvTTVVUGNKOEhLVVXSAaQBQVVfeXFMT1FHblZwckdBTVFmY1BSSklTdW9ZdGw4RmNheHRRTFphZkVZZWRjdGd2LVpXU1NzZ0N6Yi1HVFdYWW1rWk11Z0htRDBIcGdqbk5fVXVncC0wTGZqcXdsUW04cVNvUnBwRmhhODFTTEtkUjlScW5Vc0p3SmpHNnBZQ2RuUVBNek1hc3lKVVFTMFkyOUdEdHZBOWJrVVFTS0JETlR5Ni0?oc=5",
+      "published": "2026-09-04T17:33:08+00:00",
+      "published_display": "09.04 17:33",
+      "sentiment": "negative",
+      "summary": "CNBC에서 수집한 Tesla 관련 최신 기사입니다."
     },
     {
-      "title": "The Cybercab is Tesla’s ‘fork in the road’ moment",
+      "title": "Musk pushes regulatory limits with Tesla's Cybercab robotaxi service",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYmtOa3E1eVZxWmlvUHp3eUM5OE44YW1TMWNwMldpUnpyMVZMclEzQkxuV0dYTnBSWl9VZnB5aHFxVS0xcXNURjhKZFNDaTZvSWZXQUNKdTZ4M0s2TmVRTGhqelg1QUFpTnBqSGhUaVlGbUR4eHZUcFVGM2wtX0w0RFk5bXY5VHFkRHZ5Snk3cUllVTF1SEpTMWZDNTZrNzlveHE4eHRjNWwtclBTR2hvSDN6eXdha2JWRmxmMg?oc=5",
+      "published": "2026-09-04T20:08:37+00:00",
+      "published_display": "09.04 20:08",
+      "sentiment": "neutral",
+      "summary": "Reuters에서 수집한 Tesla 관련 최신 기사입니다."
+    },
+    {
+      "title": "Trump administration opens probe into Tesla’s self-driving Cybercab",
+      "source": "Politico",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTzh4UW1nWmE5SEZUT3NpOVJISWpBb3JVUGVJal9qbWFjamRncGViZ1VycjdCYWNhRERSWGlDNndOZVQzelFESlNKaFJHX1E4LTlEYmdjMjNBQlpxYVN3Y2xyalB0aWRPd0t6NDdMaFJlMGNRZWZqZ1owampQS3VOUQ?oc=5",
+      "published": "2026-09-04T18:23:00+00:00",
+      "published_display": "09.04 18:23",
+      "sentiment": "negative",
+      "summary": "Politico에서 수집한 Tesla 관련 최신 기사입니다."
+    },
+    {
+      "title": "Tesla’s Cybercab Is Being Investigated by Federal Regulators",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYXFZbVU5OFBQWWFsX0pRdWVzdnFNa0ZyU1lUNFVzcTd5ZjZlOGw3SjQxcndOVGdaLXBLWmcwWUZqZU5UX2VrY3l2YkhkTzZtOHNzRHpWZU1OZWFBc1JxRVpEQmFHMTIxd1B3NGhMckhSeHRzWjVPenZNOW8zelVrN0VNbVlTY2JBQlVn?oc=5",
+      "published": "2026-09-04T18:07:13+00:00",
+      "published_display": "09.04 18:07",
+      "sentiment": "neutral",
+      "summary": "The New York Times에서 수집한 Tesla 관련 최신 기사입니다."
+    },
+    {
+      "title": "Tesla’s Cybercab robotaxi has hit the streets. Regulators have questions.",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSTd1aDBCN002bjgwMmVOMDhDeUdjOHF3ZV96ODlUbWNMYUg3Zzl1VUE4SDZPTUdvREVlTHpYalE0NXJQN0l2UzJ5dktSN1ExbW1uQTI0ZjUzRlJCTVF5WXJmZVJpLXpqakZpZFVLUE4xNVQ1NlpxNHd3TE1TZk9PX1c5UHdIaGxFbmpQdzctcklqSkpRLXZieE9GbDJjRkNVT0lpcFhQWVdkZVV6QUVz?oc=5",
+      "published": "2026-09-04T21:45:53+00:00",
+      "published_display": "09.04 21:45",
+      "sentiment": "neutral",
+      "summary": "The Washington Post에서 수집한 Tesla 관련 최신 기사입니다."
+    },
+    {
+      "title": "Tesla’s stock falls as Cybercab launch lands with a thud",
+      "source": "MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcjVfZ0pSV3ZXbENpLTByRW5DY1VhTXFBOE9pRzZ5czJSYjVWd1JpOGRwb0EySzBSTGRwcnl2eTRGM2h1R29Cdk5WV0MxMmdZSnRRWG51d21XYU9Va0l0M0l6a29lTGx1WGhURk9DTDFxVlJmOVRZUlN6X04wVWc4ZTE4VnFtYVVBTmFmelB2YmFTaFA1TVFhNG1hc28xMWM?oc=5",
+      "published": "2026-09-04T20:18:00+00:00",
+      "published_display": "09.04 20:18",
+      "sentiment": "neutral",
+      "summary": "MarketWatch에서 수집한 Tesla 관련 최신 기사입니다."
+    },
+    {
+      "title": "NHTSA Opens Probe Into Tesla’s Cybercab Rollout",
+      "source": "wsj.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOG5IZXZNUUtrajVZU3lNZGxfNHpsS01vNUtubXAwZEV2SHdBMlJsNkVwMVpuRmZEVDREU19EanVpM0toY3l4OG5OLVRkVXU2dTB1bGg3amJyei1FakM3NU95WmlyLVNGeWdiRlRCak5kMzQ3SGZTWEJzY3Ixc2dHS1NfeGhtaFRJal9GTk9mOXJfc0Ux?oc=5",
+      "published": "2026-09-04T13:30:00+00:00",
+      "published_display": "09.04 13:30",
+      "sentiment": "negative",
+      "summary": "wsj.com에서 수집한 Tesla 관련 최신 기사입니다."
+    },
+    {
+      "title": "You Can Take a Tesla Cybercab Later Today. The Stock Isn’t Feeling Any Excitement.",
+      "source": "Barron's",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUV9aenlYTkZwSnhGNkxmdjJqanRSbGV5ZzM1OTNubnJLcHhNZGZ3YUkxUG9BOVdFX2UzRjVsWDdYUXdQaFNHX2VmS2lRTjNNdTZtSVBHczJlQzVMUGwtVnF5MmxWNnUxaEc3VEJDY0MyNnQyOUZiSTdHUVJVWTBfbQ?oc=5",
+      "published": "2026-09-04T18:22:00+00:00",
+      "published_display": "09.04 18:22",
+      "sentiment": "neutral",
+      "summary": "Barron's에서 수집한 Tesla 관련 최신 기사입니다."
+    },
+    {
+      "title": "Feds launch investigation into Tesla’s Cybercab deployment",
       "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSno4MzVrOTJQOTRnbGJHWTlfWFIzb09LSklyemloeWo4eUhOMEotdkxsWENSaU5fWG5qejZHZ0E0NG1INHRuSUZfQTlpZHlwbHZFaVZqTF94eEhCOWpOVFg4UU9vVnp0MnVBa2hoMkNZNzlHVTlSemQ1cWdOVnMyT3RwSURLSzNS?oc=5",
-      "published": "2026-09-03T19:42:48+00:00",
-      "published_display": "09.03 19:42",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdXF1NlI4WnJfTGk1NDF5WEdyRVNhVUxCNEprLTdGdldDMzExd3c1WlRSRXdfMnQxamxsRlZvakxtTTExSWlTRmFqZ2N2U09xZ2k1eDBHSnhrd3BRTksteEJCRExCcmk2c1BvSEpVdEFOMzdLcnlpTE56bzY0U09xOU1ER0dfV01jUE1JWjZBdVlTbVpqR3NN?oc=5",
+      "published": "2026-09-04T12:01:14+00:00",
+      "published_display": "09.04 12:01",
       "sentiment": "neutral",
       "summary": "TechCrunch에서 수집한 Tesla 관련 최신 기사입니다."
     },
     {
-      "title": "Tesla (TSLA) Stock Surges Ahead of Cybercab Launch: The Bull and Bear Case",
-      "source": "Barron's",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSGhacnlXMndGcUtpV0VqWmpZeG41bGZPVHZxNDhMZEZzVks5bHE0aUY1SzFmSmZHNlE4dUJoQl9hTm5XZHptbVVLb1F0MkpjYjlNNGR2SmdEUUhmUnM5eDc3T1hBMWxRdFFVNHJQTGQ1bUxYMWJ4VFBhRnhDZHpBUzV4RHVpOFdwTksyeg?oc=5",
-      "published": "2026-09-03T20:13:00+00:00",
-      "published_display": "09.03 20:13",
+      "title": "Tesla Officially Launches Cybercab Robotaxis; Regulator 'Evaluating'",
+      "source": "Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdFZlU0FDMVdCbEIxWWFOMk8zVzdNbGpLZXlvMHkzS3Z6dmZtVWpJQTNTNERvSFQxV3Q5a0hqUV9hamxFLUk0RXF0VDYtUjBhbEYzT2cxWGRJSTNEWGc4SlJ2NURfcEJKdjZidklkM1B5d1NFTnRMaFZEZmdVWlFGWFpPeVcyX25E?oc=5",
+      "published": "2026-09-04T17:56:00+00:00",
+      "published_display": "09.04 17:56",
       "sentiment": "positive",
-      "summary": "Barron's에서 수집한 Tesla 관련 최신 기사입니다."
+      "summary": "Investor's Business Daily에서 수집한 Tesla 관련 최신 기사입니다."
     },
     {
-      "title": "Here’s Why Tesla Stock Is Up 7% Today—Its Best Day In Months",
-      "source": "Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaE5jVkd4Uk0xTzNEanBIX1ZKcUViT1lrSGFjMGlSU3A3ZFl1c0lka2hSRWJ3ZmtEVVNwRDdLeG1Lc3ByVGpHM0RMNjVyckx2SFlmYkJvMl9kYm42dWZHVjZ0Z3llRm1sZ3dSeUV0NWRBT0otMktaMDB1QmNmbnBZdzhYUXhKQXVENzNBYVMtcFFrMzU1VlRSWksxcUZfU1NMWU1QMXpiblNPTnVNNmtsRVNDanVRcGV2cHc?oc=5",
-      "published": "2026-09-03T19:38:47+00:00",
-      "published_display": "09.03 19:38",
+      "title": "Tesla Cybercab First Look: No Steering Wheel! No Brake Pedal! No Problem?",
+      "source": "MotorTrend",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOREx1ZHJYSHNCN1pDQXc3UzJ6WHh2aFlhajlncGVJdWhkSXJJQVhVZkNOSUFzblJIUTBrMm0zc0gzd3RMczAtNzdJOEpVM3JwNVdiNWtla09VUHNtWkZGTkZKeW5McGlTOF9vTldyZlRuZUZnelZPeE5aeWxfNzg5LWlDSmlHQk9VUWJ6RDBtU2xLUnByZ2pXVTl6VW1vNWNJNUNV?oc=5",
+      "published": "2026-09-04T13:20:39+00:00",
+      "published_display": "09.04 13:20",
       "sentiment": "neutral",
-      "summary": "Forbes에서 수집한 Tesla 관련 최신 기사입니다."
+      "summary": "MotorTrend에서 수집한 Tesla 관련 최신 기사입니다."
     },
     {
-      "title": "Tesla Stock Has Been on a Hot Streak Ahead of Big Event This Week",
-      "source": "Investopedia",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYVRQY0NlUU84S2ZraXRTMTFLZXB2dGtlX3hpaHltSExPd0lvM0MtakNQQjBMNFdRSlFMYjgtNUxTOUJrTWdaVGVYdFc4dWJ6MC1oUW5oX1N3Q3F2WGVqZnVtYjZNaUdKZGVjVmI2c01Da2gwemFBNk40VTROTzRwSm9WNlp1d2JnR19XekktUnZReDQ3bEhWWW5qeWVWM3pCZE9nYmtNRDNpcUVfRTktRWRxOFZ2YWFHNnk0TmVsQ0M?oc=5",
-      "published": "2026-09-03T15:00:00+00:00",
-      "published_display": "09.03 15:00",
+      "title": "MKBHD is feeling confident that he won't have to shave his head after Cybercab event",
+      "source": "Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOakRhNmRsUlNzQ3l2eU1GTDlvZHJLVktKaE0wbWw3UTlwSllJOTVJclpNa0NhQzVSSUlaRmtxbGpnZWxHRjN0UzNqNFRJM2hScDQ2czZteTJtNW9VcDZEV25FSVRvaW9KSXNTRGVjMTZkRG9uV2RDcDMwc3NURmNyR1ZqRjBqUHR2b0tOMjBn?oc=5",
+      "published": "2026-09-04T16:13:00+00:00",
+      "published_display": "09.04 16:13",
       "sentiment": "neutral",
-      "summary": "Investopedia에서 수집한 Tesla 관련 최신 기사입니다."
+      "summary": "Business Insider에서 수집한 Tesla 관련 최신 기사입니다."
     },
     {
-      "title": "Tesla hints its already prepping for Cybercab fleet orders",
-      "source": "Teslarati",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZNk9vdGhSeHBXeElWeVg2NW5EcnYyMVNscmV2TndXQmxtN1hCNVNwc3ZsQURMSXNYLXhjZ3d4ZDJ6VG03ZkR1ZTVfblNkdHZ2azJrdHJmczhpbzlWSjBzREtaTWpmT1o1NVBXMWk0ZlNzUVJpajBDUw?oc=5",
-      "published": "2026-09-03T21:56:41+00:00",
-      "published_display": "09.03 21:56",
+      "title": "Tesla Falls 3% as Cybercab Launch Leaves Deployment Questions Unanswered",
+      "source": "finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZkRYWkxuNS1WMHNmcnptWUQ3dTNHMkt0R0UwTExLWGFzdkNxbGsxNC1vV2FDb09fbngxOFpveG03TFVfa2RJZVYxR01JZ3M3cjRQVnFpbHpRS1VlOGZ0MnFkTXN4a2RIZzBFNFFNelM0NjdTR0dvUEZvaXN0YmQ3NkdSSVFvMS15c00yM3EzQUVNanE5SEFFcDlB?oc=5",
+      "published": "2026-09-04T13:05:31+00:00",
+      "published_display": "09.04 13:05",
       "sentiment": "neutral",
-      "summary": "Teslarati에서 수집한 Tesla 관련 최신 기사입니다."
+      "summary": "finance.yahoo.com에서 수집한 Tesla 관련 최신 기사입니다."
+    },
+    {
+      "title": "Tesla’s Cybercab Officially Launches Today. It’s Already Under Investigation",
+      "source": "WIRED",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQnozazljM0JOSm5tRHVLc0dackVObmp1MVdKWE90ZHRFclNDVnMwTVphVlBxbEtIMl9iaVFkRXhwZ09PSlJzbzRvTnRWSkRvVDljRUtMc0toRS0wTzd6RVY2RWhwOWtmLVA1Y0Y3WWhJSko1LWlPT2hPUFdPdlI1cHZ2RDFhdE5ac1hoWEQ4dW9UazhCSmc3cnJwbEZvZzZWS0Vn?oc=5",
+      "published": "2026-09-04T15:17:00+00:00",
+      "published_display": "09.04 15:17",
+      "sentiment": "neutral",
+      "summary": "WIRED에서 수집한 Tesla 관련 최신 기사입니다."
+    },
+    {
+      "title": "Tesla slides as underwhelming Cybercab launch draws U.S. probe - The Spokesman-Review",
+      "source": "The Spokesman-Review",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY3BsQ1dSczl0dWtBU1lybWY0dEVwZFJJUjl6eDBmNWNOcHZGYnNNM1dkOUl2WG9lQjdiVDJZNF96UmRfNW1oa2steW95eEg1RENnWHFNRWFQVzRVSnREMHlSLU41NnRaQllvdTRjSlZ2N0dsVmplUlc2YzVTZmZKUjZRTDZFRUlyX2hTbUtmY1RpeEM3Rkx6VlEzS3h2QQ?oc=5",
+      "published": "2026-09-04T22:26:10+00:00",
+      "published_display": "09.04 22:26",
+      "sentiment": "neutral",
+      "summary": "The Spokesman-Review에서 수집한 Tesla 관련 최신 기사입니다."
+    },
+    {
+      "title": "US opens probe into Tesla self-certification of Cybercab robotaxis",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQck1jNEdySTN3TlpYR2lwYnp5ZmdPSE1PSVU4bnMteVQyd1BQOE8xMm1ObU9kTWV1Z0tENlBXTjY0RVZINy1YNURVYldWMEUzTGx4STNPaG5zRjJMOWpzWFpJQy1RV2VpX0NvMmVFZ1kwdWhxeDlzV0R3a3NnbTN6Nmtod3AzZkk5eVdyYm1yNHU5M0JjczhQbnQ5eFlSMUZ4RFRoQUhTZzlGVG9yZGpMR01NTDZUVk01Y0FpaFhEdXI3YmtPeTlZd2dzS2syb1Zo?oc=5",
+      "published": "2026-09-04T16:16:42+00:00",
+      "published_display": "09.04 16:16",
+      "sentiment": "negative",
+      "summary": "Reuters에서 수집한 Tesla 관련 최신 기사입니다."
     },
     {
       "title": "Tesla Begins Offering Rides in a Car Without a Steering Wheel",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS01TSXFBUUJqY0FrUThBTlJFNWhTam5DRWRyeUJNLXJiZ1J1V2lMVEVhWDVHajN5UWtfdWZnUVFNZVpMUFBneGVEYVNqWGdJQ2dXODYyenpNRnRudU41QS1zZ2VjLUZyWkNVVDZSQjlMdlNQaWNhbWR3cjJ0bnRqMTktel8?oc=5",
-      "published": "2026-09-03T22:12:46+00:00",
-      "published_display": "09.03 22:12",
+      "published": "2026-09-04T12:25:00+00:00",
+      "published_display": "09.04 12:25",
       "sentiment": "neutral",
       "summary": "The New York Times에서 수집한 Tesla 관련 최신 기사입니다."
     },
     {
-      "title": "'No steering wheel, no pedals': Tesla teases fans ahead of long-awaited Cybercab update",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTTdvUi0xU1E3Szc2VzlJak9lSm4ySWZ3S05vVTBjbXFEZWE0XzRFMHJ0UUlZbTN4V0lDUEpyXzJzdlFmX0NuTWFhUkJUNG5xdElVb1VlVUI5eTZqZTU0S01tVE5PTHpNbkF2VUw3RG5KTklpUktHNUN0VVgtdHZtRk8xUmNxWXMtUzNhREEtakhfbnRtUXRuZkluSFZBMTk0VzJlddIBqgFBVV95cUxPSjl2SlZDMXFKanVJT2w5TVJXNF9rRVVsX1FuZW1tdVByam9ha2NXb2VoNS0wVDktWWpRMkFSWDB2bExCa0ZDei1ZcFJabS1pZXppaE9meW53NTdzRmNJcndreU93S0xtcEh1ZUMzMTZlV3ktUjhPVTBCanVFNUFFdlR6dzdCVTRhazFZYW1lcl9OblBMb1pTNk1ySEtGMm5BRVR0WmwxUkdKZw?oc=5",
-      "published": "2026-09-03T11:00:02+00:00",
-      "published_display": "09.03 11:00",
-      "sentiment": "neutral",
-      "summary": "CNBC에서 수집한 Tesla 관련 최신 기사입니다."
-    },
-    {
-      "title": "Tesla Introduces 'Automatic Collision Evasion' for Manual Drives",
-      "source": "Not a Tesla App",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc3VRdTBMUXFMemVKWWpTdTF6UU00aFk0Z21xZHRSR0xjRk5LNFJZSVYzVmFiQjUxdENKQVktLU1SNV9LVjJPcExDZzZQdTVNQ1F4WW9lMUNXZFhjSEQ5ZG9yZnpjRUVDd25ZMVRRWnI0Y1JZckpOdHBGWmtodGVCdjhDSXZXU2U5TEV6anNtTWxXMk0zWk9xSFg2ZzAwaThV?oc=5",
-      "published": "2026-09-03T20:36:00+00:00",
-      "published_display": "09.03 20:36",
-      "sentiment": "neutral",
-      "summary": "Not a Tesla App에서 수집한 Tesla 관련 최신 기사입니다."
-    },
-    {
-      "title": "France starts tests on Tesla's self-driving tech",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT2Z6cHJwdzVFWlFBVTA3ZnZqa2FodnJTVnRRNGNrckx4MHdjdExEZlJMNHE5SS1LT2lRZmxNSmxRcndqbmJUZ3ZDbXJEWU1zQlIxY2lyb19TZ3RLaVpLRHJvWXljbUNyZFBjVzdVUG5vUnpVNy1tM2IzcFVLbm5LUkU0RUpPR2dDcE9kMDYxZXl2Q1FOTmc?oc=5",
-      "published": "2026-09-03T13:28:53+00:00",
-      "published_display": "09.03 13:28",
-      "sentiment": "neutral",
-      "summary": "Reuters에서 수집한 Tesla 관련 최신 기사입니다."
-    },
-    {
-      "title": "Tesla launches Cybercab without human controls into robotaxi fray. Can its tech finally scale?",
-      "source": "Automotive News",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fYWItelQwZGNldFdBVEo4UVNDZk5CaTlabmFiRk9MUU9IR0JxZEdvSGFyUElHUGdnOG9FX0VYa29SNnZYcEhDdFNWWnJTakxBNjFGSjF1LWJ3MjFVZV9yNUxNN2Q5YmdpRVBwa2hR?oc=5",
-      "published": "2026-09-03T17:02:00+00:00",
-      "published_display": "09.03 17:02",
-      "sentiment": "positive",
-      "summary": "Automotive News에서 수집한 Tesla 관련 최신 기사입니다."
-    },
-    {
-      "title": "Tesla Driver Killed After Self-Driving Mode Stops in the Middle of a Highway",
-      "source": "Futurism",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV3E2aktpWVV0bmFZQVBfamRIeEhBWHYwbWpEQWtzQkduOEdEMXNHNk5HNUk1VkVReXo4cjVRS3ZfOVh3TmJ2YVFLYjg0SGUzaldaX3VhcWJ4ak1DSk1CdHhRVzduYmQwSE1UVUNnOWRvbml4dVhiRVcxQ283aDZhV1B4eG14cXE0eHBwZ053X085ZU5VZ04xWTZpQzJVajJrbnZqNGJiTEZzenc0azdpSmI1VDdoN2s?oc=5",
-      "published": "2026-09-03T12:49:08+00:00",
-      "published_display": "09.03 12:49",
-      "sentiment": "neutral",
-      "summary": "Futurism에서 수집한 Tesla 관련 최신 기사입니다."
-    },
-    {
-      "title": "Tesla keeps hyping robotaxis as its future. But it’s trailing rival Waymo in a field yet to prove profitable",
-      "source": "cnn.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT01kRkRDWHRTWjh2TzNUUm9rUmhtQTZzdEdVLV9rTzRpb25fOUtGUS05VVJqeEs3dHVFZDI0ZmhEbnVZZEk2b2k4LWZEX2VTWjM5UUJKY3hodWlyZ29uS3BURjBqWkxncEd0ZmJONU5GN3RYNkpoN25MX2JwR0ZqYXBFbk95N1Fi?oc=5",
-      "published": "2026-09-03T11:00:29+00:00",
-      "published_display": "09.03 11:00",
-      "sentiment": "neutral",
-      "summary": "cnn.com에서 수집한 Tesla 관련 최신 기사입니다."
-    },
-    {
-      "title": "Tesla Cybercab: Here's What To Expect From Thursday's Event",
-      "source": "Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdFZlU0FDMVdCbEIxWWFOMk8zVzdNbGpLZXlvMHkzS3Z6dmZtVWpJQTNTNERvSFQxV3Q5a0hqUV9hamxFLUk0RXF0VDYtUjBhbEYzT2cxWGRJSTNEWGc4SlJ2NURfcEJKdjZidklkM1B5d1NFTnRMaFZEZmdVWlFGWFpPeVcyX25E?oc=5",
-      "published": "2026-09-03T13:08:00+00:00",
-      "published_display": "09.03 13:08",
-      "sentiment": "neutral",
-      "summary": "Investor's Business Daily에서 수집한 Tesla 관련 최신 기사입니다."
-    },
-    {
-      "title": "Tesla on autopilot halts on busy highway before giant F-350 truck rear-ends and kills driver",
-      "source": "New York Post",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQczRLLWVmMF84V0ZHZGQzY1VTSGhVemdIMkZSNy0yeTR2SURlcENHejRaNmZTVnpXZ2dWcHdyVWhWOV9McFlaS2d5MEU2TzlfUDZQaDJrTkNaT0x3bF9iYVVfdjBGeXF0NHVSZy1OS0lGQ3hVOHZ6NUI4YTM4TGhjaWtXeU5EWVotRkR3WFRMY0cyaW9EQkNsWmJROFdheklDRGJNTGZ4bw?oc=5",
-      "published": "2026-09-03T21:46:00+00:00",
-      "published_display": "09.03 21:46",
-      "sentiment": "neutral",
-      "summary": "New York Post에서 수집한 Tesla 관련 최신 기사입니다."
-    },
-    {
-      "title": "A Tesla killed a motorcyclist on Autopilot/FSD, Tesla’s own data confirms",
-      "source": "Electrek",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JQkxkOW12emY5SHNleE9UY09Uc1l4Z1hXSENYME02TkdnU1RZTkVqYkJiRERBR0ZnNjFqbVhUMWZBQ2RBcGRoeENzQWw4TkFVR1dLVG11bXFUOGM3Ry04QUF2YkVDYWcxNG4zY2pDbVQtTWQ1eWFPWElYX1E?oc=5",
-      "published": "2026-09-03T16:05:00+00:00",
-      "published_display": "09.03 16:05",
-      "sentiment": "neutral",
-      "summary": "Electrek에서 수집한 Tesla 관련 최신 기사입니다."
-    },
-    {
-      "title": "Tesla's Cybercab Launch Event: How to Watch & What to Expect",
-      "source": "Not a Tesla App",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTlkwQkZtODMtM1AtSlAyeHBoWWYzM2tObG5yamdjR1ZBNEVHMzM4cjYtblZkVTZlLUFYM0VmTko3LWRpUmpNY1pJVEgxckZYMlFtYmd1d0g0eEZ5dE1GZUhqUkplaUJGX0UtSjVFQU5mTjFnXy1fYWlkMFhjTkR2QjhQUURFak1lUWVreXVQSUVuOGdsY2N0Xzdnbw?oc=5",
-      "published": "2026-09-03T21:45:00+00:00",
-      "published_display": "09.03 21:45",
-      "sentiment": "positive",
-      "summary": "Not a Tesla App에서 수집한 Tesla 관련 최신 기사입니다."
-    },
-    {
-      "title": "Tesla's Cybercab event set for Thursday, with few details",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNkZILWtfRnRVVS1iTERiNHlmYlAzOXptQld0WU1ncEtVaC01V2NvSTI5S0ZUbkh4V0hqRjNCTmkxSWFnQ1pabG9JbTBnVkxDdlIwR3dXd2dWMVJ2WFRidUN3b1FNV1VRdlRDcVhWZUxEamFPQkp5Tl9MRXJUQ2xacFAxR1NDb1gwYnRhRENrcl94ZHd2bFFtakp6OXh3WDBLQ21VMTh5Vnk0WTJGdjlXVnAtNU5rZEJG?oc=5",
-      "published": "2026-09-03T10:41:40+00:00",
-      "published_display": "09.03 10:41",
-      "sentiment": "neutral",
-      "summary": "Reuters에서 수집한 Tesla 관련 최신 기사입니다."
-    },
-    {
-      "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
+      "title": "No little kids allowed, and other new info about Tesla’s Cybercab",
       "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdkFBMHlfb2lidkZzaGZLYjhCOXRiZXA2YVZGV1drbVdJaHBsX3ZMV0dIWVlWTDlTcmZKeHplQXBZcm9ER21LUFB6SUg3aThCMEdhZC1IUi1WdVo5QzN5Q29WVS1RSmZmNUhZYksxUjdTUk45T0RGU2FGSFRDbVl2SUtGZ3JMYmotXzVBOGpidlJGTDN5UWlaQ1NxTU92ODdvbDE4?oc=5",
-      "published": "2026-09-03T22:18:30+00:00",
-      "published_display": "09.03 22:18",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVThMU3I1UmJxZ1FHQzBSSGwtY05BeVBrbHVwUWJfUGFSS0ZwenRlYVhFZkZzOC16T2tOTkhHd2pXUEcyRFVRYkg4Z2F1b1hNXzJWVXJTekxaT1lvWmNpdlZ1aGp6QmQ1bnp6N2VSbXdpSjBycFI5V2NnXzZpbVFFUndaUUZHZW9UX2N4ajNaQS1YMEFtc1Y1ZDA3UUhmNEk?oc=5",
+      "published": "2026-09-04T16:51:23+00:00",
+      "published_display": "09.04 16:51",
       "sentiment": "neutral",
       "summary": "TechCrunch에서 수집한 Tesla 관련 최신 기사입니다."
     },
     {
-      "title": "Tesla to launch self-driving 'Cybercab' in Texas",
-      "source": "uk.finance.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ0hObFVESm1FZ25XZmJ2UnBFcjk1ODZnRFFfYlg3VFdyR29CWEhqcnFkN0VSeWJRSFpXVG5lbVJOT0pRai1GR0lzNGNmS0tBRmpGQi0xSGRRWmZpSmRpYkUwSllLWG50ODcyXy1wWVpaNzcxRU4wbG1PTjFwbjZfSHN1Q05DeHphYllF?oc=5",
-      "published": "2026-09-03T15:11:53+00:00",
-      "published_display": "09.03 15:11",
+      "title": "Exclusive | Tesla-Challenging EV Truck Startup Windrose Loses Most of Chinese Staff",
+      "source": "wsj.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOXU5dElGeEtqMW15YUJZYUNvMnVqTndmbkswMmxNX2MzNUxRZ0w4QXpmNHA2NTlKSDdNWU5SbngxVHZWNXgxUzV0WlRUenNteEtQMkNxNVBRdVhaQVhnSFM0UktCVWhmQVZnaHpxcUh4MGU1elllc1V4eWEyTHR3M0J5YVhpYWNCN3JxYlpnQVotaDRfZlVDZ3dBR1VidGhCWFRaLUp0WXhMOHBQUHc?oc=5",
+      "published": "2026-09-04T12:00:00+00:00",
+      "published_display": "09.04 12:00",
+      "sentiment": "neutral",
+      "summary": "wsj.com에서 수집한 Tesla 관련 최신 기사입니다."
+    },
+    {
+      "title": "Tesla's Cybercab launch did not live up to the hype, says WSJ's Tim Higgins",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUHRid2JKejVMVVFoYWlWVXRUajFRWW9vMVlSQ3JqeThVS0lhNmg1ZXVIU2lMQVdTX2F6ZTVjZW9hYWVNR0xNOVRsZWJ4TV9nTzJXVWlCZGthNEYySHVWNzQ4cjNyRjJwd1dfUU9TUEZReWFDVnBiQ2RSYlU3THhzdjMxQngxTWVBTnhDQk11bjI2SURkaWdKUEtoMjEyUDZmdkl1Z3RwakJvV0NUX2JoQVVOZVQ1UQ?oc=5",
+      "published": "2026-09-04T12:09:00+00:00",
+      "published_display": "09.04 12:09",
       "sentiment": "positive",
-      "summary": "uk.finance.yahoo.com에서 수집한 Tesla 관련 최신 기사입니다."
+      "summary": "CNBC에서 수집한 Tesla 관련 최신 기사입니다."
     },
     {
-      "title": "Tesla launches Cybercab",
-      "source": "fox7austin.com",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54S0dmOXowcC00RzVmN2lvSlgyZUwwRUJhSWE4VlkwbDlPT2hmRTJkU0p5cXlhc1lqZUJTd1pLLURfSDdSak45SlZTdXh4cDdvdzVic0wyLTB3SmZwODIxcUVpY9IBaEFVX3lxTE1zMEI0bzkxYXk4ODBqelA3TXI2c0o5azlRZDJ2R1YzbW9ENXU4SnZraGZUZFJXdlMzLXFtb1ZSd1hDTHpzWXZwYVMzVUVPRE5CclhhN25HWFdCMDhjbmNEVUZsQ0FRN1F4?oc=5",
-      "published": "2026-09-03T22:21:43+00:00",
-      "published_display": "09.03 22:21",
+      "title": "Tesla crash, fire closes northbound lanes of BW Parkway in Laurel",
+      "source": "NBC4 Washington",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRnJicVVGdjZpbDZPQ1hMcUE1YUM3U0U3eW54UWljVkV4ZGx3eXhJUDl5Qk9kSWVHTHU5MUtfYzZDNFlBeUpaS1U0Q09OVTk3bktsQmJLVDdtNVZPYXc3Yi1iMUk1U2Q4THB1R2dCM0hjS1FhRjdhRmp6UDMtdkU1Z3VoaXEwR013SXBqdVV6VGoxQmlsZW1uM0dqRHpBX2RqUXJOTjN2eEc2eWx3R3daM2RkYUXSAbwBQVVfeXFMUGpJOVRWMUJtQm5aNzZFdHlDOG1wbXAwYU9xU1lCR2VUemdZdm8wRGNOVXlJNDBJcTVwOTRVOXYzMHRTaW9xNmthN24tdUxXLW1KZ3lPdWFyNlE0VDlMWlJVb3JtX1NhRVo4eGFTOEw4bUU2SmNwVFE2RGtLeC1TWTY1ZDZwb0otZnBQc3lJMW9uclBOU1lWdnYxeUdoVGdKb3BfU0htOWd0MXpRcW9kc0tfcXBYSXRvTUZaRF8?oc=5",
+      "published": "2026-09-04T20:35:15+00:00",
+      "published_display": "09.04 20:35",
+      "sentiment": "negative",
+      "summary": "NBC4 Washington에서 수집한 Tesla 관련 최신 기사입니다."
+    },
+    {
+      "title": "Tesla launches Cybercab service in Austin",
+      "source": "finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbFRnazk0a0hfQ2djTkRlc2FuUjFWd3dIR2xkMmNZaXB3NEkyUzBRZ3NSNGZjeU9mQVRudEo1cnkyTjVPWjFQd2ZwcEJKTGlsc0RCejdQUVplSlUyQThWRU1HVFUweUROOXVsNXBpSWh1NFdxaXQyMzVpODZfSzh0V2lwQQ?oc=5",
+      "published": "2026-09-04T13:27:08+00:00",
+      "published_display": "09.04 13:27",
       "sentiment": "positive",
-      "summary": "fox7austin.com에서 수집한 Tesla 관련 최신 기사입니다."
+      "summary": "finance.yahoo.com에서 수집한 Tesla 관련 최신 기사입니다."
     },
     {
-      "title": "Tesla's Cybercab event is tonight. Here's what the industry — and Wall Street — expects",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVkw0dkhsTnVuc242d0cxRWt1aFJiSFBGOGVzLURpS3FTOEdJZXNqNVVYR3NCQUVHbFhha1hBM3FPRjhSSFdab2tUYUlXZ0JDNFI3Yjl4dTlrbHEyY2dvSjdKUFNqZDgtNnZkLVBFVzB3T01XVkMxYXk3WHJWNnEtVkwxV2N3cVpkU1BpVnlxdDV1Tk9uTG5BUGtiUEdxazlCT083ZGRkN3YxdVdTenQ2a3Fab29jVll0Q29sUFJjSWxzcWVBSVdWTXRwd0hQdzQyZG1lbW53?oc=5",
-      "published": "2026-09-03T11:00:00+00:00",
-      "published_display": "09.03 11:00",
+      "title": "Tesla Cybercab Isn’t Just Missing a Steering Wheel. It Doesn’t Even Have Brake Lines",
+      "source": "The Drive",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLW5FdHBLZFZRSjRMZlF4cWdJLWRwemxhX1JDVzZ1X3I2S0c0TVVYbkpJMF9hS2laeFJ0TGQ1ZFhMQ0x4NDllX0prRG9XclMwMkNzbUp3d2JPQkhwbTJKRUdsdDY3dlczcjlQNkZNLTZrTEtvUmc1WV9IaVM5TnlKNHBBTUlKRHJhZmNjeEtNRklRc29KbDM1UGhJR1dxM2s5ajVfS1h6WnFMM0h6cktXaQ?oc=5",
+      "published": "2026-09-04T20:22:41+00:00",
+      "published_display": "09.04 20:22",
       "sentiment": "neutral",
-      "summary": "Yahoo Finance에서 수집한 Tesla 관련 최신 기사입니다."
+      "summary": "The Drive에서 수집한 Tesla 관련 최신 기사입니다."
     },
     {
-      "title": "Tesla Is Now Up 18% in a Month: Take Profits, or Buy More?",
-      "source": "24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOWVPaTlZRl9lSnVRYm5LNllCU1N0N1ptUUVwVVR2N013UlhtdnR2bldUbDQtQTRaUlFvUnF2QkpDdUhqWWFKcVRzcUlOSnlUT250dktxeUR6VzU3Q1YzZEhGNE5YS3M5QUNjSk5yVzFwU1B0T19WT0xOVVFudnRYMG1xUDVOcmN2WWNHUFFTZEdINTlwdW1HVld1YThpS1k?oc=5",
-      "published": "2026-09-03T19:20:00+00:00",
-      "published_display": "09.03 19:20",
+      "title": "Can You Buy the Tesla Cybercab? Robotaxi Rides Launch in Austin",
+      "source": "Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS3FubUZsSE9GMExxTXFJT25UVGQ2Z2pVdjhrR3ZURF9VNkNUejBiVTdjS3lLc3pJTHNlWWhSV1FaMTB0Tl90YWRyLXdkTHEzNjduckJxTGNNd3VwRHBENWk4N3c3ZzVpcTh3UWFGOFR5V3JPM0dfZXVsMlZQa0NSdzR0S1hkYkFiSjMtYmlEVXRpbVQwenBVSTlqdmE?oc=5",
+      "published": "2026-09-04T15:26:00+00:00",
+      "published_display": "09.04 15:26",
       "sentiment": "positive",
-      "summary": "24/7 Wall St.에서 수집한 Tesla 관련 최신 기사입니다."
+      "summary": "Newsweek에서 수집한 Tesla 관련 최신 기사입니다."
     },
     {
-      "title": "How Much Range The Tesla Model 3 And Model Y Lose After Almost 100,000 Miles",
-      "source": "InsideEVs",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTZE1qUnZFb2F0bkZma3N5Q2stWHh2TERCdGNvTDRvVjdjLW1XbGd0ekwwZDZFbGR3aEpZTjkwaXAzNjhiVTFpWm8wQzBKSXh6dHJOdHdqNGxZZGdFUzliT042UUVQWk16ZmVPUHlMd2xGTlU0N2pJ?oc=5",
-      "published": "2026-09-03T20:52:00+00:00",
-      "published_display": "09.03 20:52",
+      "title": "Tesla’s Autonomous Cybercab Service is GO!",
+      "source": "MotorTrend",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QZWdOMnlydS1ZZmdLbUh5cjdMOWhMVGE5Ujdid3luTloyTGRFMkpVdE5jMjZLaElLUE51WVRwWmJaeEpxbDJ6dGsxTXYzQzdzWEVIZFpIX1gwUThhQnlPdm9Vbm9WcUhuNGV3QzlQSWx5bEo1WUxONUhOU0U?oc=5",
+      "published": "2026-09-04T19:04:19+00:00",
+      "published_display": "09.04 19:04",
       "sentiment": "neutral",
-      "summary": "InsideEVs에서 수집한 Tesla 관련 최신 기사입니다."
+      "summary": "MotorTrend에서 수집한 Tesla 관련 최신 기사입니다."
     },
     {
-      "title": "Tesla Readies Cybercab Launch Event That’s Shrouded in Mystery",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUXQzMGlMWjhfeUJKckVUT29aVlc0em5LWjVOcERTQV9ZZ0xFOTBTdlYzOHJLQVQ1MXBPTzcyaUFXTi1SVFJhaTN4cVR6RTNSSHJwQ2dhNzJCSDkteVNnTkdkVU5ZUHVtWjVwd0tjWXlMcENUeGxyby1mSnRqZ3psNFRZcGlqaVhJOTdzZXFVNHRTYlNDMXplQXFscUR6Y2MzaW9FUi1MaFQwODNFRFFucWFiaw?oc=5",
-      "published": "2026-09-03T12:15:00+00:00",
-      "published_display": "09.03 12:15",
-      "sentiment": "positive",
-      "summary": "Bloomberg.com에서 수집한 Tesla 관련 최신 기사입니다."
-    },
-    {
-      "title": "How Safe Is the 2026-27 Tesla Model Y?",
-      "source": "Cars.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObHVEYzBuM0NBbUgzZjFuWVZhUTNzN3NOR0hvZy02ZGhBaXVYQWNERkFSRXk1SGFacXRjNWRYWk1KQVN5RGlVUkd3OFdSVjBOM1B2MkViZXlHb1NSVlAtRUc2QkI3WjBjYTRRY2tfN3JZYWVQSGpQQlNVd2VVZzlaWg?oc=5",
-      "published": "2026-09-03T21:36:14+00:00",
-      "published_display": "09.03 21:36",
+      "title": "Tesla Full Self-Driving can now take over manual driving to avoid a collision",
+      "source": "Electrek",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMHpXOUlqZzU5UTNwSmdNUW9MNE1ac0ZJbmRsc1pOVms5a2ZYUzFtVDIyYkNid1VFMnhjNExLcTBOYkVPS3h4TmJ2UGZBYVJaQlNzVk9fcDZYd1YwSmY1RG1KcWc3R3JvNlg4UUtRUGkxNDUzTGRXaG5DRVZ4VmtoMA?oc=5",
+      "published": "2026-09-04T13:56:00+00:00",
+      "published_display": "09.04 13:56",
       "sentiment": "neutral",
-      "summary": "Cars.com에서 수집한 Tesla 관련 최신 기사입니다."
+      "summary": "Electrek에서 수집한 Tesla 관련 최신 기사입니다."
     },
     {
-      "title": "Dow Jones Futures: Stocks Jump On Fed's Waller; Tesla Cybercab, Jobs Report In Focus",
-      "source": "Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR0M3ZTZtdEdVYUFxdzNzM0N5cGR1Tm1EdWlwdmF4ZDAtVk1BZklrRERfR3I1b0syUUh5TkNQSUIyLURTVURBNWhnNHdnOWR2UmltNkw5R0EyemFuWExZekFOaTBQQ0xnWnVvREZhbEdTa3VyQjI4V1BicHItUzhGTDJTbEgzNk5XZHBZSHFwZmd2SnYwN0NKMnJZYUw1TG91X1ZJR2UxakxReDhKSjdoOWF4a28?oc=5",
-      "published": "2026-09-03T20:55:00+00:00",
-      "published_display": "09.03 20:55",
+      "title": "Cybercabs are a game changer, says Mike Khouw. Here's how he's trading Tesla",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV0R6TjFoSXFqVHJpQUM5Tk9FVUowVHpJVV9uVnBScDRDdlJUN0hDZEZrUHVMTjRJTlNkNHpOWnExX2xHUkFHM3JoZ2hLT3labkJUQkFuQWZXa095aTN1RmNKUE1DM2ZSQ3BvS0FuVjh6LVh3TVFiUG9LbnYyeUtIYU1kOE9GVmZkNUU4bmh3a0thUXFDUXhUWWx1X25yWVQ2S1l6aGZydVlWamJvQ0HSAbMBQVVfeXFMUEx1QzVfTHdXa0NhYWI3dEZVdTc4LWJBWVk1Y3VmTm5mczh0VlVHZHpQS1lKZlJaMG5vQ3RZXzk3OTBWX2RtbnI5d05DU0ZxN3Bra1ZPdzM1SWlMVnRVRm9DV0hDTXVub29oT1VmRlY4ay1jZTVRZ180ZHFjVzJQQkY2LUVGbm5mOS1YN1NhZUlkQ04wWC14VXRsYmVqb1o2UXZKRFdXNEkzZ3NIUDQ0S3pJVTA?oc=5",
+      "published": "2026-09-04T16:56:28+00:00",
+      "published_display": "09.04 16:56",
       "sentiment": "neutral",
-      "summary": "Investor's Business Daily에서 수집한 Tesla 관련 최신 기사입니다."
+      "summary": "CNBC에서 수집한 Tesla 관련 최신 기사입니다."
     },
     {
-      "title": "Tesla catches fire in Atlanta",
-      "source": "11Alive.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNzBBNzRWR3RFaldUVmswWWRVdm1TRklxbEhjTTI3TnI3aXZ0cklpYWpnb1poTWpUbS1IUndPSENjNGNEWGFHcEdSSmFDQ1BUaUJpMzZzbVpQREtkRkxkN2NMekhHLWxHbGlTLWRqbmgzRHRGT1l3STNad214enFxdXlyZmxvMTUxOTFqYjNwdWM4ZW5DMkVrU3d6aUFqNTZJMGtRZldSN0xzNWpqZGtr?oc=5",
-      "published": "2026-09-03T12:15:00+00:00",
-      "published_display": "09.03 12:15",
+      "title": "Tesla’s Cybercab launch triggers federal safety probe",
+      "source": "latimes.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWmhvQ3dwQzU0ZjF0UXZ4ZnV4emM5cTZCcktlZzFULWhEd3FrbWgwVWRFV1g4dUpObEtaRHFDNUtCODBXd29jSlBCTmJ3TzBaXzNYU2MyZ3hmZ0g3RnNpT3lHMzZkY251UFVSY2pJYWZ6c0RpVHh0Wllpay1McmFjNnpERzlJM0R3a0FCaXV1T3J2YlM3RFBkUkNreUUtakp3X3pLUw?oc=5",
+      "published": "2026-09-04T20:30:00+00:00",
+      "published_display": "09.04 20:30",
       "sentiment": "neutral",
-      "summary": "11Alive.com에서 수집한 Tesla 관련 최신 기사입니다."
+      "summary": "latimes.com에서 수집한 Tesla 관련 최신 기사입니다."
     },
     {
-      "title": "Daily 5 report for Sept. 3: Elon Musk bets on Cybercab. Analysts say Tesla still has to prove it’s safe",
-      "source": "Automotive News",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTmNSUzhQSHRYMkdaTUZnRzY0V1VBR0sxVTVwUEtXQktUN3pFMTBDZkhOY2Q2ZlJ3dkhkaEdNeVNoQ3JJQzBISDhHTzZrRVpZb25TVkVTYUlmc0hPQjJVX250T3I5X2R0Q2ljdjdtdmJVLURtVGNlVXVJNHhGOENzcURfSmJtUWZWblJRcllB?oc=5",
-      "published": "2026-09-03T19:00:00+00:00",
-      "published_display": "09.03 19:00",
-      "sentiment": "neutral",
-      "summary": "Automotive News에서 수집한 Tesla 관련 최신 기사입니다."
+      "title": "Tesla Stock Falls 6% as NHTSA Probes Its Cybercabs",
+      "source": "finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUWtOTnBtWjVHVWxZem0zSWVfX2I3MVpkRVFNdjZKYldBSEhiV2l1dXlDamwyNm5Jdk9FdkJRUHZ2aVdCNnJSTXpKdm1PTU83aC1LZ0dMd0xxSmtQcktXSThWSngyRG5lRXRVREJVUURZNTBPT3hrd21lVFh1M2I2TEhnQjBNN0EyM3dteVNDQlJKOFFx?oc=5",
+      "published": "2026-09-04T19:53:35+00:00",
+      "published_display": "09.04 19:53",
+      "sentiment": "negative",
+      "summary": "finance.yahoo.com에서 수집한 Tesla 관련 최신 기사입니다."
     },
     {
-      "title": "Tesla's 45 Cybercabs Face a $1.3 Trillion Reality Check",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMGEwbjdDQWNqV256QWhQOHptNmtiWXdFVkRDSFJ4VVdFb0tsLUtUSlA5eU5ob0lmRDdCMHcxYXE3NXFkbVdSZlJMcHI4TEZWNDltN3RWaTUyMlhqbnE4YUpWTExvSmUxNUxfdmplaHhvN3c4bWtuNFprX2FKS2N1TU83eFdFWWszMGdrWjY4TTVLakgtOFE?oc=5",
-      "published": "2026-09-03T21:34:07+00:00",
-      "published_display": "09.03 21:34",
+      "title": "Tesla, Fair Isaac, Micron, Sandisk, AMC, Trade Desk, UiPath, and More Stocks That Explain Today’s Market",
+      "source": "Barron's",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NMnlzelRPc0lGRXBIanBGMmd0Ry1YNjBVU0NsMXptdmQwTjN1Y0NsN29IdnRHRTlya25rMS1qREZrZk9MU3RuZU8tNFZsdHVVUHV5SHRnT3RZZzkyTWpVY2ZsOUM?oc=5",
+      "published": "2026-09-04T20:30:00+00:00",
+      "published_display": "09.04 20:30",
       "sentiment": "neutral",
-      "summary": "Yahoo Finance에서 수집한 Tesla 관련 최신 기사입니다."
+      "summary": "Barron's에서 수집한 Tesla 관련 최신 기사입니다."
     }
   ]
 }
